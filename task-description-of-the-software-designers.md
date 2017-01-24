@@ -14,3 +14,5 @@ The **Unified Modeling Language** \(UML\) methodology could be very useful to ma
 
 ![](/assets/UML_class_diagram_hotel-949x683.png)
 
+![](/assets/Engineering-quote-6.jpg)
+

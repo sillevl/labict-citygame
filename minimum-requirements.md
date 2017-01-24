@@ -31,6 +31,10 @@ URL: [http://www.redmine.org/](http://www.redmine.org/ "Redmine - Project Manage
 
 **Redmine** is a flexible project management web application. Written using the Ruby on Rails framework, it is cross-platform and cross-database.
 
+> "De enige plaats waar succes voor werk komt, is het woordenboek." \[Vidal Sassoon\]
+>
+> "Een expert is iemand die binnen een beperkt vakgebied alle mogelijke fouten heeft gemaakt."
+
 #### **Figure 11 and Figure 12: the REDMINE Project Management Web Application **
 
 ![](/assets/redmine.png)
