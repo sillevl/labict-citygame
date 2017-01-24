@@ -18,15 +18,21 @@ The winner will be the team that is able to flawlessly perform as much as possib
 
 Let's take the city of Ostend as an example. The challenge for **team A** could be:
 
-1\) start at 8:45 AM at  'Fort Napoleon Oostende' - solve some puzzles or issues, concerning Fort Napoleon and it's history within 15 minutes
+1\) start at 8:45 AM at  '**Fort Napoleon** Oostende' - solve some puzzles or issues, concerning Fort Napoleon and it's history within 15 minutes
 
-2\) go to the railway station of Ostend - the deadline is 9:45 AM - solve some puzzles or issues, within 30 minutes
+2\) go to the **railway station** of Ostend - the deadline is 9:45 AM - solve some puzzles or issues, within 30 minutes
 
-3\) go to 'Cultuurcentrum De Post' - the deadline is 10:45 AM - solve some puzzles or issues, within 20 minutes
+3\) go to '**Cultuurcentrum De Post**' - the deadline is 10:45 AM - solve some puzzles or issues, within 20 minutes
 
-4\) go to 'Kinepolis Ostend' - the deadline is 11:30 AM - solve some puzzels or issues, within 10 minutes
+4\) go to '**Kinepolis** Ostend' - the deadline is 11:30 AM - solve some puzzels or issues, within 10 minutes
 
-5\) return to the base camp at Katholieke Hogeschool VIVES as fast as possible, to be evaluated by the game master and indeed to claim the victory of your team!
+5\) return to the base camp at **Katholieke Hogeschool VIVES** as fast as possible, to be evaluated by the game master and indeed to claim the victory of your team!
+
+As an example, a number of location markers \(marker B and C\) are visualized in **Figure 1**.
 
 Naturally, you should be able to compose other thrilling 'compete - go - track' games or variants of the above described city game.
+
+#### Figure 1: VIVES City Game in Ostend
+
+![](/assets/Oostende_city_game_map.PNG)
 
