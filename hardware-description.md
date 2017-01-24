@@ -6,7 +6,7 @@ The "game box" \(one per team\) is a plastic box and will be provided \(see **Fi
 
 #### Figure 1: VIVES Game City Box
 
-# _Insert image of the box here!!!_
+# ![Example of the game box](/assets/SVL_003_2021.jpg)
 
 Let us give an overview of the hardware components:
 
