@@ -2,7 +2,7 @@
 
 ## _Game Box_
 
-The "game box" \(one per team\) is a plastic box and will be provided \(see [\#figure-1-vives-game-city-box](#figure-1-vives-game-city-box "Figure 1")\). The game box will contain the battery, the battery management system, an LCD display, the embedded system, ..., so that the competing teams should have an autonomy of several hours.
+The "game box" \(one per team\) is a plastic box and will be provided \(see [\#figure-1-vives-game-city-box](#figure-1-vives-game-city-box "Figure1") \). The game box will contain the battery, the battery management system, an LCD display, the embedded system, ..., so that the competing teams should have an autonomy of several hours.
 
 #### Figure 1: VIVES Game City Box
 
