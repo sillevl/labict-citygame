@@ -22,7 +22,7 @@ Let us give an overview of the hardware components:
 
 #### Figure 2: FRDM-K64F mbed
 
-![](/assets/FRDM_K64F_large.png)
+![FRDM-K64F mbed](/assets/FRDM_K64F_large.png)
 
 #### Figure 3: FRDM-K64F mbed Block Diagram
 
