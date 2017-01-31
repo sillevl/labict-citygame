@@ -10,9 +10,7 @@ The non limiting list of tasks of the software designers is:
 
 The **Unified Modeling Language** \(UML\) methodology could be very useful to manage, design and maintain the global and partial parts of the software project \(see **Figure 10**\). In a transparant and clear manner the structure \(attributes and behavior\) and relations between classes is visualized. This is a rather powerful tool for supporting the process of software development.
 
-#### **Figure 10: an example of UML software modelling**
+![an example of UML software modelling](/assets/UML_class_diagram_hotel-949x683.png)
 
-![](/assets/UML_class_diagram_hotel-949x683.png)
-
-![](/assets/Engineering-quote-6.jpg)
+![Engineering quote](/assets/Engineering-quote-6.jpg)
 
