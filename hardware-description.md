@@ -4,9 +4,7 @@
 
 The "game box" \(one per team\) is a plastic box and will be provided \(see [\#figure-2-vives-game-city-box](#figure-2-vives-game-city-box "VIVES Game City Box") \). The game box will contain the battery, the battery management system, an LCD display, the embedded system, ..., so that the competing teams should have an autonomy of several hours.
 
-#### Figure 2: VIVES Game City Box
-
-# ![Example of the game box](/assets/SVL_003_2021.jpg) {#figure2}
+![Example of the game box](/assets/SVL_003_2021.jpg)
 
 Let us give an overview of the hardware components:
 
@@ -20,13 +18,9 @@ Let us give an overview of the hardware components:
 * two LED's: red/blue
 * pushbutton
 
-#### Figure 3: FRDM-K64F mbed
-
 ![FRDM-K64F mbed](/assets/FRDM_K64F_large.png)
 
-#### Figure 4: FRDM-K64F mbed Block Diagram
-
-![](/assets/xfrdm-k64f_block-diagram_jpg_pagespeed_ic_n9RhjOFW_9.jpg)
+![FRDM-K64F mbed Block Diagram](/assets/xfrdm-k64f_block-diagram_jpg_pagespeed_ic_n9RhjOFW_9.jpg)
 
 ## _Game Box hardware extensions_
 
@@ -37,7 +31,5 @@ The basic hardware of the game box should  be extended with the following hardwa
 
 **LoRAWAN** is a Low Power Wide Area Network with features that support low-cost, mobile, and secure bi-directional communication for Internet of Things \(IoT\), machine-to-machine \(M2M\), and smart city, and industrial applications. LoRaWAN is optimized for low power consumption and is designed to support large networks with millions of devices. Innovative features of LoRaWAN include support for redundant operation, geolocation, low-cost, and low-power devices can even run on energy harvesting technologies enabling the mobility and ease of use of Internet of Things.
 
-#### Figure 5: LoRaWAN Network Architecture
-
-![](/assets/LoRaWAN_network_architecture.jpg)
+![LoRaWAN Network Architecture](/assets/LoRaWAN_network_architecture.jpg)
 
