@@ -11,7 +11,7 @@ The **minimum requirements** to be achieved in this project are:
 * The game(s) must be dynamically loaded, not statically programmed in code.
 * Two players or groups must be able to compete against another and/or cooperate with others.
 * Scores or times should be comparable between different groups who played the same game.
-* Data or state must be sent from the case to the server.
+* Updates, data or state must be sent from the case to the server.
 * Battery powered.
 
 ## Restrictions
@@ -23,7 +23,7 @@ The **minimum requirements** to be achieved in this project are:
 
 ## Valuable expansions
 
-* Data or state can be send from the server to the cases.
+* Updates, data or state can be send from the server to the cases.
 * Multiple types of games, ranging from time, distance and difficulty can be created and played.
 * Generate random games based on a set of restrictions
 * Use your imagination and creativity. **Suggestions are welcome and will be appreciated**.
