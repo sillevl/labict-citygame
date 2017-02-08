@@ -26,24 +26,44 @@ To meet the objectives of the project, some requirements are mandatory:
 * Efficient and streamlined communication between team members, peer-to-peer, bottom-up and top-down
 * Peer assessment
 
-#### **Redmine**
+## Redmine
 
-URL: [http://www.redmine.org/](http://www.redmine.org/ "Redmine - Project Management System")
+URL: [http://project.labict.be/](http://project.labict.be/ "Redmine - Project Management System")
 
 **Redmine** is a flexible project management web application. Written using the Ruby on Rails framework, it is cross-platform and cross-database.
 
 ![the REDMINE Project Management Web Application](/assets/redmine2.jpg)
 
-As a matter of fact, your team should always avoid product development disasters, as presented in the following picture:
+At the end of each project day an evaluation will be made for each group based on the planning and logs of Redmine. Fine-tuning of the planning will be needed as the project advanced to paint a realistic picture of the progress and current state of the project.
 
+> If it's not in the logs, it never happened !
 
+## Final Presentation
 
-!!! link naar redmine
+Each group will need to give a presentation of their project in the last week (Wednesday the 17th of May 2017). In this presentation you need to give an overview of the work performed and final result.
 
-!!! datums / deadlines
+This final presentation consists of:
+
+* 20 minutes of PowerPoint presentation
+* 5 minutes of questions from the audience
+* 10 minutes of demonstration
+* Every member of the group should take part in the final presentation.
+
+## Roadmap
+
+* Thursday 9/2	       8h45 – 16h30
+* Wednesday 15/3	8h45 – 16h30
+* Wednesday 22/3	13h30 – 16h30
+* Wednesday 26/4	8h45 – 16h30
+* Wednesday 3/5	8h45 – 16h30
+* Wednesday 10/5	8h45 – 16h30
+* Wednesday 17/5	8h45 – 16h30 **Final Presentation**
+
 
 > "De enige plaats waar succes voor werk komt, is het woordenboek." \[Vidal Sassoon\]
 
 > "Een expert is iemand die binnen een beperkt vakgebied alle mogelijke fouten heeft gemaakt."
+
+As a matter of fact, your team should always avoid product development disasters, as presented in the following picture:
 
 ![Product development](/assets/IT.png)
