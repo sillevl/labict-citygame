@@ -2,7 +2,7 @@
 
 A city game is an interactive game being played between different teams. These teams have certain objectives that need to be accomplished inside the boundaries of a certain city. So you can actually imagine a city game as a live-action game.
 
-### _**What is it all about?**_
+## What is it all about?
 
 Imagine yourself and your team being dropped in a less familiar environment, for instance a lesser known city, having to compete in a city game against other teams. The team-members of each competing team could be or could not be familiar with the orientation, structure, topology ... of this particular city.
 
