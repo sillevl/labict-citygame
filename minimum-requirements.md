@@ -2,10 +2,11 @@
 
 The **minimum requirements** to be achieved in this project are:
 
-* Cover a  trajectory, defined by a sequence of selected marker locations, within a predefined period of time
+* Cover a  trajectory, defined by a sequence of minimum 3 selected marker locations, within a predefined period of time
 * Validation of the position of the marker locations
 * The ability to upload metadata \(strings\) or media \(files, photos, ...\) to a web server
-* Develop at least one \(city\) game
+* Develop at least one \(city\) game.
+* The game(s) must be dynamically configured, not statically programmed in code.
 
 The project could be subdivided in four major parts:
 
@@ -14,7 +15,7 @@ The project could be subdivided in four major parts:
 3. game generator
 4. Graphical User Interface, database and database management system
 
-Each student should be engaged in at least one of these four major project parts. If the sub-project, in wich you are involved, is finished, you should join your colleagues to support their design team. After all, the succes of the global project depents on each cooperator!
+Each topic must be subdivided into smaller topics. *Each student* should be engaged in *at least one* of these four major project parts. If the sub-project, in which you are involved, is finished, you should join your colleagues to support their design team. Developers can switch teams when priorities shift during the project. After all, the success of the global project depends on each cooperator!
 
 To meet the objectives of the project, some requirements are mandatory:
 
@@ -31,15 +32,17 @@ URL: [http://www.redmine.org/](http://www.redmine.org/ "Redmine - Project Manage
 
 **Redmine** is a flexible project management web application. Written using the Ruby on Rails framework, it is cross-platform and cross-database.
 
-> "De enige plaats waar succes voor werk komt, is het woordenboek." \[Vidal Sassoon\]
-
-> "Een expert is iemand die binnen een beperkt vakgebied alle mogelijke fouten heeft gemaakt."
-
-![Redmine Logo](/assets/redmine.png)
-
 ![the REDMINE Project Management Web Application](/assets/redmine2.jpg)
 
 As a matter of fact, your team should always avoid product development disasters, as presented in the following picture:
 
-![Product development](/assets/IT.png)
 
+
+!!! link naar redmine
+
+!!! datums / deadlines
+
+
+
+
+![Product development](/assets/IT.png)
