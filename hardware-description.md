@@ -1,6 +1,6 @@
 # Hardware requirements
 
-## _Game Box_
+## Game Box
 
 The "game box" \(one per team\) is a plastic box and will be provided \(see the image below \). The game box will contain the battery, the battery management system, an LCD display, the embedded system, ..., so that the competing teams should have an autonomy of several hours.
 
@@ -22,7 +22,7 @@ Consider the following overview of the hardware components:
 
 ![FRDM-K64F mbed Block Diagram](/assets/xfrdm-k64f_block-diagram_jpg_pagespeed_ic_n9RhjOFW_9.jpg)
 
-## _Game Box hardware extensions_
+## Game Box hardware extensions
 
 The basic hardware of the game box must be extended with the following hardware components:
 
