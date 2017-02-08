@@ -50,7 +50,7 @@ To meet the objectives of the project, some requirements are mandatory:
 
 ## Git
 
-All code and progress should be managed using Git. [github.com](https://github.com) can be used to create repositories and organize collaboration. 
+All code and progress should be managed using Git. [github.com](https://github.com) can be used to create repositories and organize collaboration. Teachers should have full access to the projects, and projects should be public.
 
 Note: Even failed experiments or code not used in the end result must be stored in git repositories.
 
@@ -67,6 +67,12 @@ The first session, a detailed planning must be made for the full length of time 
 At the end of each project day an evaluation will be made for each group based on the planning and logs of Redmine. Fine-tuning of the planning will be needed as the project advanced to paint a realistic picture of the progress and current state of the project.
 
 > If it's not in the logs, it never happened !
+
+## Slack
+
+A slack channel is created for this project. Preferable all communication and discussion should be done here if it does not concerns to Redmine.
+
+[https://eo-ict-vives.slack.com/messages/projectwerk2/]()
 
 ## Report
 
