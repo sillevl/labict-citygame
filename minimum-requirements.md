@@ -42,7 +42,8 @@ As a matter of fact, your team should always avoid product development disasters
 
 !!! datums / deadlines
 
+> "De enige plaats waar succes voor werk komt, is het woordenboek." \[Vidal Sassoon\]
 
-
+> "Een expert is iemand die binnen een beperkt vakgebied alle mogelijke fouten heeft gemaakt."
 
 ![Product development](/assets/IT.png)
