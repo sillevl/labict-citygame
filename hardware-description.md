@@ -32,3 +32,5 @@ The basic hardware of the game box must be extended with the following hardware 
 **LoRaWAN** is a Low Power Wide Area Network with features that support low-cost, mobile, and secure bi-directional communication for Internet of Things \(IoT\), machine-to-machine \(M2M\), smart cities, and industrial applications. LoRaWAN is optimized for low power consumption and is designed to support large networks with millions of devices. Innovative features of LoRaWAN include support for redundant operations, geolocation, low-cost, and low-power devices can even run on energy harvesting technologies enabling the mobility and ease of use of Internet of Things.
 
 ![LoRaWAN Network Architecture](/assets/LoRaWAN_network_architecture.jpg)
+
+The LoRaWAN communication channel can be used to implement the real-time monitoring of the game state by the game master. Since it is a bi-directional channel, it can also be used by the game master to change settings or inject challenges in the team's game-boxes.
