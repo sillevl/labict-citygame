@@ -57,8 +57,9 @@ This final presentation consists of:
 * Wednesday 26/4	8h45 – 16h30
 * Wednesday 3/5	8h45 – 16h30
 * Wednesday 10/5	8h45 – 16h30
-* Wednesday 17/5	8h45 – 16h30 **Final Presentation**
+* Wednesday 17/5	8h45 – 16h30 -> **Final Presentation**
 
+## Final notes
 
 > "De enige plaats waar succes voor werk komt, is het woordenboek." \[Vidal Sassoon\]
 
