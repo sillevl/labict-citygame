@@ -1,12 +1,34 @@
-# Minimum requirements
+# Project Requirements
+
+##  Minimum requirements
 
 The **minimum requirements** to be achieved in this project are:
 
-* Cover a  trajectory, defined by a sequence of minimum 3 selected marker locations, within a predefined period of time
-* Validation of the position of the marker locations
+* Cover a  trajectory, defined by a sequence of minimum 3 selected checkpoints, within a predefined period of time
+* Possibility to play puzzels, riddles, or questions at checkpoint locations before giving the details about the next checkpoint.
 * The ability to upload metadata \(strings\) or media \(files, photos, ...\) to a web server
 * Develop at least one \(city\) game.
-* The game(s) must be dynamically configured, not statically programmed in code.
+* The game(s) must be dynamically loaded, not statically programmed in code.
+* Two players or groups must be able to compete against another and/or cooperate with others.
+* Scores or times should be comparable between different groups who played the same game.
+* Data or state must be sent from the case to the server.
+* Battery powered.
+
+## Restrictions
+
+* Battery must last for minimum 6 hours. Battery must stay in place when recharging trough an USB connector.
+* Use object oriented programming languages for both the firmware as software.
+* Communication between the cases and the server must use the LoRaWAN communication protocol.
+
+
+## Valuable expansions
+
+* Data or state can be send from the server to the cases.
+* Multiple types of games, ranging from time, distance and difficulty can be created and played.
+* Generate random games based on a set of restrictions
+* Use your imagination and creativity. **Suggestions are welcome and will be appreciated**.
+
+## Approach
 
 The project could be subdivided in four major parts:
 
@@ -30,9 +52,11 @@ To meet the objectives of the project, some requirements are mandatory:
 
 URL: [http://project.labict.be/](http://project.labict.be/ "Redmine - Project Management System")
 
-**Redmine** is a flexible project management web application. Written using the Ruby on Rails framework, it is cross-platform and cross-database.
+> **Redmine** is a flexible project management web application. Written using the Ruby on Rails framework, it is cross-platform and cross-database.
 
 ![the REDMINE Project Management Web Application](/assets/redmine2.jpg)
+
+The first session, a detailed planning must be made for the full length of time for the project. Each member must have at least one task assigned to himself at any moment during the creation of the project.
 
 At the end of each project day an evaluation will be made for each group based on the planning and logs of Redmine. Fine-tuning of the planning will be needed as the project advanced to paint a realistic picture of the progress and current state of the project.
 
