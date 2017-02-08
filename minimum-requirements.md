@@ -68,6 +68,20 @@ At the end of each project day an evaluation will be made for each group based o
 
 > If it's not in the logs, it never happened !
 
+## Report
+
+Reporting is done through this document on gitbook. It does have to adhere to a certain structure:
+
+* index page with abstract and table of contents
+* introduction
+* actual content
+* costings
+* conclusions
+* sources (where you got your information)
+* attachments (images, schematics, code, ...) (can be uploaded in documents / files)
+
+Gitbook will be locked 1 week after the final presentation; so Wednesday the 24th of May 2017. This means you will not be able change anything anymore after this date.
+
 ## Final Presentation
 
 Each group will need to give a presentation of their project in the last week (Wednesday the 17th of May 2017). In this presentation you need to give an overview of the work performed and final result.
