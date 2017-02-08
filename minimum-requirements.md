@@ -48,6 +48,12 @@ To meet the objectives of the project, some requirements are mandatory:
 * Efficient and streamlined communication between team members, peer-to-peer, bottom-up and top-down
 * Peer assessment
 
+## Git
+
+All code and progress should be managed using Git. [github.com](https://github.com) can be used to create repositories and organize collaboration. 
+
+Note: Even failed experiments or code not used in the end result must be stored in git repositories.
+
 ## Redmine
 
 URL: [http://project.labict.be/](http://project.labict.be/ "Redmine - Project Management System")
