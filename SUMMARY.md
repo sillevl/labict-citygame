@@ -3,10 +3,10 @@
 ### Assignment
 
 * [Introduction](README.md)
-* [Project Description](project/project-description.md)
+* [Project Description](project/hardware-description.md)
 * [Hardware Designers](project/hardware-designers.md)
 * [Software Designers](project/task-description-of-the-software-designers.md)
-* [Project requirements](project/minimum-requirements.md)
+* [Project requirements](project/project-requirements.md)
 
 ### Introduction
 
