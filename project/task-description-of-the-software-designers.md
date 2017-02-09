@@ -18,7 +18,7 @@ The following UML diagrams should be used to explain the development and results
 * Flowcharts
 * State diagram
 
-Note: Free educational accounts can be requested on [Lucidchart.com](https://www.lucidchart.com/)
+Note: Free educational accounts can be requested at [Lucidchart.com](https://www.lucidchart.com/). Just google for "lucid charts educational account"
 
 ![an example of UML software modelling](/assets/UML_class_diagram_hotel-949x683.png)
 
