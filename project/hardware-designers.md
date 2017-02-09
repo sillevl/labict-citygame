@@ -23,7 +23,7 @@ URL: [https://www.mbed.com/en/development/mbed-os/](https://www.mbed.com/en/deve
 
 ## Battery Management System \(BMS\)
 
-The battery can for example be for example a LiPo \(Lithium Polymer\) or a Lithium-Ion battery. The choice is up to you.  
+The battery can for example be a LiPo \(Lithium Polymer\) or a Lithium-Ion battery. The choice is up to you.  
 The output voltage of a single cell LiPo battery is +3,7 V DC. This voltage should be transformed to +5 V DC. A DC/DC convertor could be a valuable suggestion. The game box should have to ability to charge the battery. The external connector for charging the battery must be a USB connector. A **Battery Management System** \(see **image below**\) is mandatory to prevent excessive discharge of the battery. Deep discharge of these kind of batteries would cause irreversible damage to the battery.
 
 ![Lithium-Ion Battery Management System](/assets/BMS2.jpg)
