@@ -13,7 +13,7 @@ The mbed device drivers should be developed according to the Object Oriented Par
 
 ![OOP Interface/Implementation approach](/assets/OOP.png)
 
-## integration of the mbed firmware in mbed OS
+## Integration of the mbed firmware in mbed OS
 
 ARM mbed OS is an open source embedded operating system designed specifically for the "things" in the Internet of Things \(see **image below**\). It includes all the features you need to develop a connected product based on an ARM Cortex-M microcontroller, including security, connectivity, an RTOS and drivers for sensors and I/O devices.
 
@@ -23,7 +23,7 @@ URL: [https://www.mbed.com/en/development/mbed-os/](https://www.mbed.com/en/deve
 
 ## Battery Management System \(BMS\)
 
-The battery can for example be for example a LiPo (Lithium Polymer) or a Lithium-Ion battery. The choice is up to you.
+The battery can for example be for example a LiPo \(Lithium Polymer\) or a Lithium-Ion battery. The choice is up to you.  
 The output voltage of a single cell LiPo battery is +3,7 V DC. This voltage should be transformed to +5 V DC. A DC/DC convertor could be a valuable suggestion. The game box should have to ability to charge the battery. The external connector for charging the battery must be a USB connector. A **Battery Management System** \(see **image below**\) is mandatory to prevent excessive discharge of the battery. Deep discharge of these kind of batteries would cause irreversible damage to the battery.
 
 ![Lithium-Ion Battery Management System](/assets/BMS2.jpg)
@@ -33,3 +33,4 @@ The output voltage of a single cell LiPo battery is +3,7 V DC. This voltage shou
 The team of hardware developers should meet/communicate on a regular basis with the software development team. The use of the iterative and incremental Agile software development methodology of **SCRUM** \(see **image below**\) is mandatory. One of the major contributors to the successful realization of a project is an intense, regular communication between the hardware and the software engineering teams. Detailed agreements on interfaces, connectors, communication protocols, pinout, ... are mandatory and fundamental to guarantee the successful realization of your project within a realistic period of time.
 
 ![the Agile SCRUM Methodology of software development](/assets/SCRUM.jpg)
+
