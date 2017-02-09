@@ -8,7 +8,7 @@ The non limiting list of tasks of the software designers is:
 * **Media Web Server**: a Web Server should be able to collect and process media information, files, ... of the competing teams. Photos from a smartphone or tablet PC could be uploaded to the server. A File Management System or Content Management System could be valuable suggestions.
 * **Game Management System**: this is the centralized, top level software framework, that seamlessly integrates all the above mentioned software modules. A programming language that supports Object Oriented Programming, multi-threading, ... is mandatory. The Game Management System should be able to interface with a database, visualize the status of the gameplay, process web content and media, interact with the game master, communicate with the competing teams, validate and process the results of the teams, ... 
 
-The **Unified Modeling Language** \(UML\) methodology could be very useful to manage, design and maintain the global and partial parts of the software project \(see **Figure 10**\). In a transparant and clear manner the structure \(attributes and behavior\) and relations between classes is visualized. This is a rather powerful tool for supporting the process of software development.
+The **Unified Modeling Language** \(UML\) methodology could be very useful to manage, design and maintain the global and partial parts of the software project \(an example is shown in the image below\). In a transparant and clear manner the structure \(attributes and behavior\) and relations between classes is visualized. This is a rather powerful tool for supporting the process of software development.
 
 The following UML diagrams should be used to explain the development and results:
 
