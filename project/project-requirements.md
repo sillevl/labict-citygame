@@ -113,6 +113,7 @@ This final presentation consists of:
 > "De enige plaats waar succes voor werk komt, is het woordenboek." \[Vidal Sassoon\] or in English "The only place where succes comes be before work, is in the dictionary.
 >
 > "Een expert is iemand die binnen een beperkt vakgebied alle mogelijke fouten heeft gemaakt."
+> or in English "An expert is someone who made every mistake within his professional discipline.
 
 As a matter of fact, your team should always avoid product development disasters, as presented in the following picture:
 
