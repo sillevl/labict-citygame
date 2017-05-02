@@ -13,7 +13,8 @@
 ## Actual content \(CHANGE THIS CHAPTER\)
 
 * [Hardware](actual-content-change-this-chapter/hardware.md)
-* Firmware
+* [Firmware](actual-content-change-this-chapter/firmware.md)
+* [Game Management](actual-content-change-this-chapter/game-management.md)
 
 ## Costings
 
