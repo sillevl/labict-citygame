@@ -1,6 +1,5 @@
 # Firmware
 
-## Firmware is heaven
 
 
 
