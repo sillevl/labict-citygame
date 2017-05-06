@@ -26,6 +26,7 @@
   * [PCB Design](actual-content-change-this-chapter/hardware/pcb-design.md)
 * [Firmware](actual-content-change-this-chapter/firmware.md)
 * [Game Management](actual-content-change-this-chapter/game-management.md)
+  * [Connection between website and MBED](actual-content-change-this-chapter/game-management/connection-between-website-and-mbed.md)
 
 ## Costings
 
