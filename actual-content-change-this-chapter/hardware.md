@@ -17,10 +17,5 @@ The hardware consists out of a few different parts. These can have an input, out
 
 ---
 
-**In the following parts of "Hardware" we will take a closes look at all these different parts.**
-
-
-
-
-
+**In the following parts of "Hardware" we will take a closer look at all these different parts.**
 
