@@ -14,4 +14,5 @@ The chip communicates via a normal serial TTL level protocol at 9600 baud. (Can 
 
 ![](/assets/GPSprot.PNG)
 
+Adafruit provides a Arduino library that has been ported over to MBED by Myron Lee.
 
