@@ -25,6 +25,9 @@
   * [Battery System](actual-content-change-this-chapter/hardware/battery-system.md)
   * [PCB Design](actual-content-change-this-chapter/hardware/pcb-design.md)
 * [Firmware](actual-content-change-this-chapter/firmware.md)
+  * [General Overview](actual-content-change-this-chapter/firmware/general-overview.md)
+  * How does the game work?
+  * Possible future improvements
 * [Game Management](actual-content-change-this-chapter/game-management.md)
   * [Connection between website and MBED](actual-content-change-this-chapter/game-management/connection-between-website-and-mbed.md)
 
