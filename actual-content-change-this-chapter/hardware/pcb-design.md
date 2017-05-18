@@ -32,6 +32,9 @@ The GPS is on the bottom right. There is a backup battery clip that makes it pos
 ##### Keypad
 Above the GPS chip is the keypad. All the rows are pulled down with a resistor. The rows have diode in series which we did not use afterward. I was thought this was necessary because there could be a short if the column pins are on a different voltage level and you would press two buttons at the same time.  
 
+##### Lora
+Above the keypad is the Lora chip. It connects to the Mbed via SPI.
+
   
 #### Board
 Top Layer:
