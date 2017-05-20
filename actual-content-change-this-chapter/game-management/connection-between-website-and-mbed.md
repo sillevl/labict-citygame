@@ -45,5 +45,19 @@ The protocol is useful for connections with remote locations where a small code 
 
 * HTTP is a **point-to-point communication**.
 
+### MQTT methods:
+
+* **Connect**: Waits for a connection to be established with the server.
+
+* **Disconnect**: Waits for the MQTT to finish any work it must do, and for the TCP/IP session to disconnect.
+
+* **Subscribe**: Waits for completion of the subscribe or unsubscribe method.
+
+* **Unsubscribe**: Requests the server unsubscribe the client from one or more topics.
+
+* **Publish**: Returns immediately to the application thread after passing the request to the MQTT client.
+
+
+
 
 
