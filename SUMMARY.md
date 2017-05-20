@@ -24,6 +24,7 @@
   * [Keypad](actual-content-change-this-chapter/hardware/keypad.md)
   * [Battery System](actual-content-change-this-chapter/hardware/battery-system.md)
   * [PCB Design](actual-content-change-this-chapter/hardware/pcb-design.md)
+  * [Extra Information](actual-content-change-this-chapter/hardware/extra-information.md)
 * [Firmware](actual-content-change-this-chapter/firmware.md)
   * [General Overview](actual-content-change-this-chapter/firmware/general-overview.md)
   * How does the game work?

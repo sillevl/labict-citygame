@@ -1,4 +1,0 @@
-# Objective list + map
-
-
-
