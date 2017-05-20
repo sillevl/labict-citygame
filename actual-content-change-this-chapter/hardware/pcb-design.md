@@ -33,7 +33,10 @@ The GPS is on the bottom right. There is a backup battery clip that makes it pos
 Above the GPS chip is the keypad. All the rows are pulled down with a resistor. The rows have diode in series which we did not use afterward. I was thought this was necessary because there could be a short if the column pins are on a different voltage level and you would press two buttons at the same time.  
 
 ##### Lora
-Above the keypad is the Lora chip. It connects to the Mbed via SPI.
+Above the keypad is the Lora chip. It connects to the Mbed via SPI. We are not using the reset but there is a jumper connected to use this in the future if necessary.
+
+##### Lora Chip 2
+There is a second lora chip above the previous one. This is the other Microchip version. You can choose which one you want to use. Just keep in mind that the on board solder jumpers has be changed then. 
 
   
 #### Board
@@ -44,22 +47,63 @@ On the front side of the PCB there isn't much. We did this on purpose to make it
 
 Bottom Layer:
 ![](/assets/Afbeelding4.png)
+
+On the bottom there are most of the components. The MBED mounts here and also all the JST connectors. 
+
 #### Result
 ![](/assets/Afbeelding8.jpg)
 ***
 ### Led Board
 #### Schematic
 ![](/assets/Afbeelding5.png)
+
+The led board schematic is pretty straight forward. The only thing to note on this are the pin names on the leds. When troubleshooting a led I found that these are incorrect. 
+R1 is the resistor that is being used to set the constant current for the leds. I recommend choosing a resistor with a value equal to or higher then 1K. 
+
 #### Board
 ![](/assets/Afbeelding6.png)
+
+Also the board layout is nothing special. The only thing is that the chip is pretty hard to solder with a normal soldering iron. It is recommended to use a very fine sharp tip or reflow solder these.
 #### Result
 ![](/assets/Afbeelding7.jpg)
 ***
 ### Pinout
 
+This is the complete pinout list of the hardware.
 
+|MBED PIN| DEVICE | Nr/Name | Function |
+|--------|--------|---------|----------|
+|PTB3|Key|-|Pulled down key pin|
+|PTB10|Button 1|-| Pulled down button pin|
+|PTB11|Button 2|-| Pulled down button pin|
+|PTC11|-|SDA2|Secondary I2C bus|
+|PTC10|-|SCL2|Secondary I2C bus|
+|PTC5|LCD|RS|Register Select|
+|PTC7|LCD|E|Eneable Pin|
+|PTC0|LCD|D4|Data Pin 4|
+|PTC9|LCD|D5|Data Pin 5|
+|PTC8|LCD|D6|Data Pin 6|
+|PTC1|LCD|D7|Data Pin 7|
+|PTB19|LCD|-|PWM LCD Backlight|
+|PTC16|GPS|TX|Transmit pin from GPS|
+|PTC17|GPS|RX|Receive pin from GPS|
+|PTB9|LORA|DIO0|I/O 0|
+|PTA1|LORA|DIO1|I/O 1|
+|PTD0|LORA|NSS|SPI chip select|
+|PTD2|LORA|MOSI|SPI MOSI|
+|PTD3|LORA|MISO|SPI MISO|
+|PTD1|LORA|SCK|SPI Clock|
+|PTE25|-|SDA1|Main I2C bus|
+|PTE24|-|SCL1|Main I2C bus|
+|PTA2|Buzzer|-|Buzzer PWM pin|
+|PTBC4|KEYPAD|ROW1|Row Pin 1|
+|PTB23|KEYPAD|ROW2|Row Pin 2|
+|PTC2|KEYPAD|ROW3|Row Pin 3|
+|PTE26|KEYPAD|ROW4|Row Pin 4|
+|PTB20|KEYPAD|COL1|Column Pin 1|
+|PTB2|KEYPAD|COL2|Column Pin 2|
+|PTC3|KEYPAD|COL3|Column Pin 3|
 
-### Other interesting trivia
 
 ***
 ## Finished Product
