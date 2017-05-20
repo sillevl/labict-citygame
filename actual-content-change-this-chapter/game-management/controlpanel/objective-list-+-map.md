@@ -12,7 +12,7 @@ In this list the master can see al the missions that the teams needed to complet
 
 ![](/assets/cp_obj_sit2.png)
 
-                               _Progress icon change_
+_Progress icon change_
 
 ## Situation 3: Mission completed
 
