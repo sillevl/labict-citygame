@@ -1,6 +1,4 @@
-# Objective list + map
-
-## Objective list
+# Objective list
 
 In this list the master can see al the missions that the teams needed to completed.
 
@@ -19,8 +17,4 @@ _Progress icon change_
 ![](/assets/cp_obj_sit3.png)
 
 _Icons change and set mission time \(m:s:ms\)_
-
-
-
-
 
