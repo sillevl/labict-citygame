@@ -9,5 +9,3 @@ In this project we're using mongoDB as database because it makes it simple to ma
 
 
 
-
-
