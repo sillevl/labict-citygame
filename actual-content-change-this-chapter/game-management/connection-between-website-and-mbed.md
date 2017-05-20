@@ -14,14 +14,36 @@ The protocol is useful for connections with remote locations where a small code 
 #### MQTT:
 
 * MQTT is **data-centric**.
+
 * MQTT is a **reliable and light transport protocol** that permit TTN devices to communicate with other devices.
+
 * This protocol **uses really few bytes** to describe the content of the messages, so it can be very useful to adopt in a context where we need to exchange small messages and when we don’t have a great bandwidth \(**uses lesser bandwidth**\). **It transfers data as a byte array**.
+
 * MQTT is typically used for **communication between machine to machine**.
+
 * MQTT is a simple **pub-sub messaging system** \(**publisher-subscriber**\) which is loosely coupled, which allows client’s existence independent of any other device and is a **bidirectional communication channel**.
+
 * MQTT is **a more developer oriented protocol** with **less specification**, **methods** \(Subscribe, Publish, Connect, Disconnect, Unsubscribe\), and **message types**.
+
 * Header of a MQTT message has a **size of 2 bytes** and the **message itself is in binary format**.
+
 * MQTT **supports 3 QOS levels** out of the box in message publication, which makes developers life easy as there is no requirement to write complex, additional logic to ensure message delivery.
+
 * MQTT has a built-in distribution mechanism, supporting **one to one, one to many, one to zero distribution models**.
+
+#### HTTP:
+
+* HTTP is **document-centric**.
+
+* HTTP follows the **request/response messaging model**, where client’s need to know the exact address of the device to which it connects.
+
+* HTTP is a **complex protocol** and uses **methods** like **POST, PUT, GET, UPDATE,…** and many return codes.
+
+* HTTP is **text-oriented** and **consumes a lot of network bandwidth**. This might be a high concern for mobile apps users to some extent and such constraint device would not desire such sophisticated protocol as HTTP, **draining the battery** as we all are aware of \(Uses a lot of battery\).
+
+* HTTP does **not have any retry ability or QOS**.
+
+* HTTP is a **point-to-point communication**.
 
 
 
