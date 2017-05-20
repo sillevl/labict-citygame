@@ -21,12 +21,8 @@ At this webpage the "gamemaster" can view the gameprogress and locate where the 
 In our project we're using node.js and websockets.
 
 NodeJS is an  Event-driven I/O server-side JavaScript environment.  
-Because this script runs on the server side the user never sees critical information \(Passwords for the database\).
+Because this script runs on the server side the user never sees critical information   
+\(Passwords for the database\).
 
-Websockets makes it possible to send new data to the browser without refreshing the page.  
-
-
-
-
-
+Websockets makes it possible to send new data to the browser without refreshing the page.
 
