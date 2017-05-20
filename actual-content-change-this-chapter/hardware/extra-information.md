@@ -27,3 +27,8 @@ There are some thing to upgrade or to expand on. Here is a list:
 - Currently there is not a fully implemented battery system. The original plan was to use one of these expander ports to connect to the BMS and read out the battery voltage. 
 
 - There is a Adafruit Compass header on the board that can be used to solder that module on. 
+
+## Board & Schematic files
+
+The board and schematic files can be found on the following GitHub page:
+https://github.com/thomieboy/VivesCityGame-Eagle
