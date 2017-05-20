@@ -34,7 +34,8 @@
   * [Database](actual-content-change-this-chapter/game-management/database.md)
   * [Controlpanel](actual-content-change-this-chapter/game-management/controlpanel.md)
     * [Weatherbar](actual-content-change-this-chapter/game-management/controlpanel/weatherbar.md)
-    * [Objective list + map](actual-content-change-this-chapter/game-management/controlpanel/objective-list-+-map.md)
+    * [Objective list](actual-content-change-this-chapter/game-management/controlpanel/objective-list-+-map.md)
+    * [Map](actual-content-change-this-chapter/game-management/controlpanel/map.md)
     * [Footbar](actual-content-change-this-chapter/game-management/controlpanel/footbar.md)
 
 ## Costings
