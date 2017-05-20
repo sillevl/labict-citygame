@@ -2,11 +2,11 @@
 
 The communication between the box and the game management is done via LoRa. This is relatively new technology that makes it possible to send and receive data with very low power and long range.
 
-### RFM98:
+### RFM9X: \(We are actually using the RFM96\)
 
 ![](/assets/RFMtitle.jpg)
 
-This is the LoRa chip that we use. The RFM98 is cheap and easily available. It communicates with the MBED via SPI.
+This is the LoRa chip that we use. The RFM9X is cheap and easily available. It communicates with the MBED via SPI.
 
 ### Connection to a gateway:
 
