@@ -14,7 +14,13 @@ In this list the master can see al the missions that the teams needed to complet
 
 _Progress icon change_
 
-## Situation 3: Mission completed
+## Situation 3: Mission complete
+
+![](/assets/cp_obj_sit3.png)
+
+_Icons change and set mission time \(m:s:ms\)_
+
+
 
 
 
