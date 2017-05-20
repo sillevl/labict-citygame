@@ -97,7 +97,7 @@ This is the complete pinout list of the hardware.
 |PTE24|-|SCL1|Main I2C bus|
 |PTA2|Buzzer|-|Buzzer PWM pin|
 |PTBC4|KEYPAD|ROW1|Row Pin 1|
-|PTB23|KEYPAD|ROW2|Row Pin 2|
+|PTC12|KEYPAD|ROW2|Row Pin 2 (PTB20 if there is a bodge wire) |
 |PTC2|KEYPAD|ROW3|Row Pin 3|
 |PTE26|KEYPAD|ROW4|Row Pin 4|
 |PTB20|KEYPAD|COL1|Column Pin 1|
