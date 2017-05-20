@@ -60,7 +60,11 @@ ConfigReader * reader = new StringReader("###########");
 
 - Make sure bot the GPS and LoRa antenna are properly attached.
 
-- You are greeted with a welcome screen and after that a menu screen. There are two options. Start the game or go to the status screen. To move the arrow you must use the keypad. It uses the following configuration.
+- You are greeted with a welcome screen.
+
+![](/assets/Welcome LCD.jpg)
+
+- After that a menu screen. There are two options. Start the game or go to the status screen. To move the arrow you must use the keypad. It uses the following configuration.
 
 |Key|Function|
 |-------|---------|
@@ -70,13 +74,21 @@ ConfigReader * reader = new StringReader("###########");
 |6|Next|
 |8|Down|
 
+
+![](/assets/Menu LCD.jpeg)
+
+
 - The status screen should show the current battery level, but this is not implemented yet. To start the game just choose the first option.
 
 - The LCD will probably show "Waiting for gps". This means that there is no fix yet. Make sure that the GPS antenna is close to a window or that you are outside in an open area. 
 
+![](/assets/GPS LCD.jpg)
+
 - From the moment the box has 3 satellites the first mission will be displayed. 
 
 - A mission screen show a description of the target location, your distance to that location and the radius of how close you need to be to the location. 
+
+![](/assets/Mission LCD.jpg)
 
 - The closer you get the more red lights will light up, from the moment you are very close, they will all turn green. 
 
