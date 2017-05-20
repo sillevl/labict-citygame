@@ -30,6 +30,7 @@
   * Possible future improvements
 * [Game Management](actual-content-change-this-chapter/game-management.md)
   * [Connection between website and MBED](actual-content-change-this-chapter/game-management/connection-between-website-and-mbed.md)
+  * [Database](actual-content-change-this-chapter/game-management/database.md)
 
 ## Costings
 
