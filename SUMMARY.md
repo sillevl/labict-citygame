@@ -27,7 +27,7 @@
   * [Extra Information](actual-content-change-this-chapter/hardware/extra-information.md)
 * [Firmware](actual-content-change-this-chapter/firmware.md)
   * [General Overview](actual-content-change-this-chapter/firmware/general-overview.md)
-  * How does the game work?
+  * [How does the game work?](actual-content-change-this-chapter/firmware/how-does-the-game-work.md)
   * Possible future improvements
 * [Game Management](actual-content-change-this-chapter/game-management.md)
   * [Connection between website and MBED](actual-content-change-this-chapter/game-management/connection-between-website-and-mbed.md)
