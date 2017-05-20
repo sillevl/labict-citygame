@@ -13,5 +13,45 @@ mongoDB is a NoSQL Database. This means that data is modeled an other way than t
 
 ![](/assets/mongodb_vs_mysql.png)
 
+## Collections
+
+### Scenario
+
+![](/assets/db_scenario.png)
+
+
+
+### Booking
+
+![](/assets/db_booking.png)
+
+
+
+### Game
+
+![](/assets/db_game2.png)
+
+
+
+### Teamnames
+
+![](/assets/db_teamnames)
+
+
+
+### Login
+
+![](/assets/db_login.png)
+
+
+
+### gameUpdate
+
+![](/assets/db_gameupdate.png)
+
+### Score
+
+#### ![](/assets/db_score)
+
 
 
