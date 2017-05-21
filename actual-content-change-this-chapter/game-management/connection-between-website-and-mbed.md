@@ -59,5 +59,23 @@ The protocol is useful for connections with remote locations where a small code 
 
 
 
+### MQTT distribution:
+
+* One to one distribution:
+
+        ![](/assets/dist1.png)There is a publisher \(source device\) who sends data on a certain topic. This data will be received by the broker with the topic. The broker wil look for a subscriber \(end device who receives the data\) who is subscribed on the same topic as the publishers topic. Then the broker sends the data to the subscriber. Its very important that the device who wants to receive the data is subscribed on the same topic as the publishers topic. Otherwise the end device would not receive the data.
+
+* One to many distribution:
+
+        ![](/assets/dist2.png)
+
+This way of distribution is the same as one to one distribution, but there are more devices subscribed on the same topic. So there are more subscibers who will receive the same data.
+
+* One to zero distribution:
+
+        ![](/assets/dist3.png)
+
+This way of distribution is the same as one to one distribution, but there are no devices subscribed on the same topic. So there is no device listening to what the publisher sends. But the publisher can keep on sending data, it doesn't have to stop sending.
+
 
 
