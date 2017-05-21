@@ -12,7 +12,7 @@ There are some things to keep in mind when soldering the hardware, here is a lis
 - The 2 pin VBAT JST connector is also not necessary. Would you want to connect the backup battery voltage to the mbed chip. You could use these pins.
 - Please mind the correct polarity of the voltage connector. The 5V pin is marked with "5V!".
 
-There are some issue there were in the first revision of the board:
+These were some issues in the first revision of the board:
 - The 7 pin JST connector holes are too small. The connector should be mounted 90 deg to fix this.
 - The R/W pin of the LCD is not connected to ground. Wire a small cable that does that. 
 - Do not solder C4, this can interfere with the Microchip lora module.
