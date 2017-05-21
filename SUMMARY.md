@@ -39,6 +39,8 @@
     * [Footbar](actual-content-change-this-chapter/game-management/controlpanel/footbar.md)
   * [Adminpanel](actual-content-change-this-chapter/game-management/adminpanel.md)
     * [Keys](actual-content-change-this-chapter/game-management/keys.md)
+    * [View all bookings](actual-content-change-this-chapter/game-management/view-all-bookings.md)
+    * [Edit games](actual-content-change-this-chapter/game-management/edit-games.md)
 
 ## Costings
 
