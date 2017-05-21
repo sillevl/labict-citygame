@@ -37,7 +37,7 @@
     * [Objective list](actual-content-change-this-chapter/game-management/controlpanel/objective-list-+-map.md)
     * [Map](actual-content-change-this-chapter/game-management/controlpanel/map.md)
     * [Footbar](actual-content-change-this-chapter/game-management/controlpanel/footbar.md)
-  * Adminpanel
+  * [Adminpanel](actual-content-change-this-chapter/game-management/adminpanel.md)
     * [Keys](actual-content-change-this-chapter/game-management/keys.md)
 
 ## Costings
