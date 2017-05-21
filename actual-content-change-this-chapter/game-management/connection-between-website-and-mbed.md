@@ -3,6 +3,8 @@ TTN has a library for communicating to devices named ttn.
 We can send data in both ways.  
 We also made a websocket with the library wsocket.
 
+Link to package: https://www.npmjs.com/package/ttn
+
 ## **MQTT \(Message Queue Telemetry Transport\)**
 
 MQTT is a part of the TTN library that we use for the communication with the MBED. It is a machine-to-machine protocol \(M2M\)/"The Things Network" connectivity protocol. We did some research about it to fully understand how this protocol works.
