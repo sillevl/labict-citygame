@@ -85,9 +85,9 @@ There are 3 QOS levels:
 
 ![](/assets/QOS.png)
 
-## **TTN\(TheThingsNetwork\)**
+## **WS\(Websocket\)**
 
-Link to package: https://www.npmjs.com/package/ttn
+
 
 
 
