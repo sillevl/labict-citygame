@@ -17,7 +17,7 @@ First thing that has to happen is authentication, this can be done in two ways:
 * OTAA: Over The Air Activation -&gt; Authenticates every time it joins the network
 * ABP: Activation By Personalization -&gt; Just sends data with known keys
 
-We are using ABP because this is a more flexible for creating the project. When we would use OTAA, the box would keep on trying to make a connection and fail even when it is not possible due to having no gateway in the nearby vicinity.
+We are using ABP because this is more flexible when creating the project. When we would use OTAA, the box would keep on trying to make a connection and fail even when it is not possible due to having no gateway in the nearby vicinity.
 
 ### Data:
 
