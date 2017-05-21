@@ -7,7 +7,7 @@ We also made a websocket with the library wsocket.
 
 MQTT is a part of the TTN library that we use for the communication with the MBED. It is a machine-to-machine protocol \(M2M\)/"The Things Network" connectivity protocol. We did some research about it to fully understand how this protocol works.
 
-The protocol is useful for connections with remote locations where a small code footprint is required and/or network bandwith is not that big. It is used for sensors communicating to a broker via satellite link, over accasional dial-up conections with healthcare providers and in a range of home automation and small device scenarios. It is also ideal for mobile applications because of its small size, low power usage, minimised data packets, and efficient distribution of information to one or many receivers.
+The protocol is useful in places where there is not a very huge bandwidth at your disposal. It is used for sensors communicating with other devices, for home automation and small device scenarios. It is also ideal for mobile applications because of its small size, low power usage, minimised data packets, and efficient distribution of information to one or many receivers.
 
 ### MQTT vs HTTP:
 
