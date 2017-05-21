@@ -3,9 +3,9 @@ TTN has a library for communicating to devices named ttn.
 We can send data in both ways.  
 We also made a websocket with the library wsocket.
 
-Link to ttn library: https://www.npmjs.com/package/ttn
-link to ws library:
-https://www.npmjs.com/package/ws
+Link to ttn library: [https://www.npmjs.com/package/ttn](https://www.npmjs.com/package/ttn)  
+link to ws library:  
+[https://www.npmjs.com/package/ws](https://www.npmjs.com/package/ws)
 
 ## **MQTT \(Message Queue Telemetry Transport\)**
 
@@ -89,11 +89,21 @@ There are 3 QOS levels:
 
 ![](/assets/QOS.png)
 
+### MQTT Example:
+
+In this example there is a temperature sensor as publisher. It detects that it is 28°C and publishes it on the topic "Temp". The data will be send to the broker. \(See picture below\)
+
+![](/assets/MQTT_example2.png)
+
+The broker receives the message with the data and the topic and will start looking for devices in the network who are subscribed on the same topic as the publishers topic. In this scenario, there are 2 other devices connected to the broker. The broker looks if they are subscribed on the same topic. In this case, they are subscribed. Now the broker will send the message from the publisher to both devices who are subscribed on the same topic. \(See picture below\) 
+
+![](/assets/MQTT_example3.png)
+
+Now that the two devices received the message, they can use the data to perform an action or a functionality. In this scenario, the airco will turn on because its to hot and the heater will turn off because its alrady hot. \(See picture below\)
+
+![](/assets/MQTT_example1.png)
+
 ## **WS\(Websocket\)**
-
-
-
-
 
 
 
