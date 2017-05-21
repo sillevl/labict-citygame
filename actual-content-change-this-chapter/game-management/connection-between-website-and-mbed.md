@@ -85,5 +85,17 @@ There are 3 QOS levels:
 
 ![](/assets/QOS.png)
 
+### MQTT Example:
 
+As the publisher in the example, we have a temperature sensor. It detected a temperature of 28°C. It publishes the data on the topic "Temp" and sends it to the broker. \(See picture below\)
+
+![](/assets/MQTT_example2.png)
+
+The broker detects that there are two other devices in the network. It looks at each device if they are subscribed on the same topic as the publishers topic. In this case both the airco and the heater are subscribed on the same topic as the topic of the publisher.Then the broker will send the data from the publisher to the subscribers. \(See picture below\)
+
+![](/assets/MQTT_example3.png)
+
+Now the subscribers will use the data they got to perform some action or functionality. In the scenario, the airco will turn on because its to hot and the heater will turn off because its already hot enough. 
+
+![](/assets/MQTT_example1.png)
 
