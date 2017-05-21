@@ -77,3 +77,13 @@ This way of distribution is the same as one to one distribution, but there are m
 
 This way of distribution is the same as one to one distribution, but there are no devices subscribed on the same topic. So there is no device listening to what the publisher sends. But the publisher can keep on sending data, it doesn't have to stop sending.
 
+### MQTT QOS \(Quality Of Service\):
+
+QoS is a major feature of MQTT, it makes communication in unreliable networks a lot easier because the protocol handles retransmission and guarantees the delivery of the message, regardless how unreliable the underlying transport is. Also it empowers a client to choose the QoS level depending on its network reliability and application logic.
+
+There are 3 QOS levels:
+
+![](/assets/QOS.png)
+
+
+
