@@ -46,9 +46,9 @@ This part will explain how to use the box itself and what you can do with the so
 }
 ```
 
-- We need to **minify** this long string. That means that there should be no spaces or enteres in the string. You can do this on this site: 
+- We need to **minify** this long string. That means that there should be no spaces or new lines in the string. You can do this on this site: 
 http://www.cleancss.com/json-minify/ 
-- After minifying we need to **escape** the characters "/ etc. This can be done on this site:
+- After minifying we need to **escape** the characters "\ etc. This can be done on this site:
 https://www.freeformatter.com/json-escape.html
 We need to copy and paste this string between the two  " " marks in the main program. (main.cpp) 
 The # symbols are placeholders for that string.
@@ -58,7 +58,7 @@ ConfigReader * reader = new StringReader("###########");
 
 - Compile and upload the software onto the mbed. If the mbed hangs or crashes there is something wrong with the string. Make sure the radius number are for example 20.0 and not just 20.
 
-- Make sure bot the GPS and LoRa antenna are properly attached.
+- Make sure both the GPS and LoRa antennas are properly attached.
 
 - You are greeted with a welcome screen.
 
@@ -86,11 +86,11 @@ ConfigReader * reader = new StringReader("###########");
 
 - From the moment the box has 3 satellites the first mission will be displayed. 
 
-- A mission screen show a description of the target location, your distance to that location and the radius of how close you need to be to the location. 
+- A mission screen shows a description of the target location, your distance to that location and the radius of how close you need to be to the location. 
 
 ![](/assets/Mission LCD.jpg)
 
-- The closer you get the more red lights will light up, from the moment you are very close, they will all turn green. 
+- The closer you get, the more red lights will light up. From the moment you are very close, they will all turn green. 
 
 - If all missions are completed a message stating that will show up. If you want to play again just power off the box and power it back on.
 
