@@ -1,5 +1,3 @@
-![](/assets/UML.png)## LCD
-
 # LEDs &amp LCD (Assigned to MD)
 
 
