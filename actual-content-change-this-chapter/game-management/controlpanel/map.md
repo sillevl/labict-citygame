@@ -22,5 +22,5 @@ and to draw somethings here \(circles, line\).
 
 ## Situation 4: Mission complete
 
-![](/assets/cp_map_sit4.png)_The circle around the location marker becomes green_
+![](/assets/cp_map_sit4.png)_The circle around the location marker becomes green._
 
