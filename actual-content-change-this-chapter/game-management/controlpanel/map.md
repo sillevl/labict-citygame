@@ -14,7 +14,7 @@ and to draw somethings here \(circles, line\).
 
 ## Situation 2: Game start
 
- ![](/assets/cp_map_sit2.png)_When clicking on the case there comes a pop-up with the current mission_
+![](/assets/cp_map_sit2.png)_When clicking on the case there comes a pop-up with the current mission_
 
 ## Situation 3: Case update
 
@@ -23,10 +23,4 @@ and to draw somethings here \(circles, line\).
 ## Situation 4: Mission complete
 
 ![](/assets/cp_map_sit4.png)_The circle around the location marker becomes green_
-
-## 
-
-## 
-
-
 
