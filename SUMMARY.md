@@ -41,6 +41,8 @@
     * [Keys](actual-content-change-this-chapter/game-management/keys.md)
     * [View all bookings](actual-content-change-this-chapter/game-management/view-all-bookings.md)
     * [Edit games](actual-content-change-this-chapter/game-management/edit-games.md)
+* [Game Creator](game-creator.md)
+  * [API](game-creator/api.md)
 
 ## Costings
 
