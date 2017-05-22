@@ -1,5 +1,3 @@
-# LEDs &amp LCD (Assigned to MD)
-
 ![](/assets/LCD_Title.jpg)
 
 ### Hardware
