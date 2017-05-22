@@ -32,9 +32,14 @@ GND | 16  | GND   | Ground for led
 
 ### Software
 
-Modified library to enable custom characters:
-    ```[Display driver](https://developer.mbed.org/users/simon/code/TextLCD/)```
-* [Display interface](https://developer.mbed.org/users/atomicLogic/code/DisplayDriver/)
+#### Display driver:
+
+[Source code](https://developer.mbed.org/users/simon/code/TextLCD/)
+    
+
+#### Display interface:
+
+[Source code](https://developer.mbed.org/users/atomicLogic/code/DisplayDriver/)
 
 
 
