@@ -1,4 +1,4 @@
-## LCD
+![](/assets/UML.png)## LCD
 
 # LEDs &amp LCD (Assigned to MD)
 
@@ -32,14 +32,20 @@ GND | 16  | GND   | Ground for led
 
 ### Software
 
+![](/assets/UML.png)
+
+
 #### Display driver:
 
 [Source code](https://developer.mbed.org/users/simon/code/TextLCD/)
     
 
+
 #### Display interface:
 
 [Source code](https://developer.mbed.org/users/atomicLogic/code/DisplayDriver/)
+
+
 
 
 
