@@ -25,13 +25,11 @@ Because this script runs on the server, the user will never see critical informa
 
 Websockets makes it possible to send new data to the browser without refreshing the page.
 
-
-
 ## Notifications
 
 To get the attention of the gamemaster when a mission is finished there is an alert-sound and a pop-up shows up in the bottom.
 
-![](/assets/cp_notification)
+![](/assets/cp_notification.png)
 
 ## Game UML
 
