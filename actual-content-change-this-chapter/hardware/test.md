@@ -8,6 +8,39 @@ For more information click [here](https://developer.mbed.org/platforms/FRDM-K64F
 
 ![](/assets/frdm.JPG)
 
+#### FRDM-K64F hardware overview
+
+![](/assets/overview.JPG)
+
+#### FRDM-K64F hardware description
+
+###### Power supply
+
+There are **multiple power supply options** on the FRDM-K64F board. It can be powered from either of the **USB connectors**, the **Vin pin on the I/O header**, **DC Jack** (not populated), or an **offboard 1.71-3.6 V supply** from the 3.3 V pin on the I/O header. The USB, DC Jack, and Vin supplies are **regulated onboard** using a 3.3 V linear regulator to produce the main power supply. DC to DC linear regulator is **not available in 3.3 V on J20 Header**, however a direct supply to K64 MCU is available.
+
+The table below provides the operational details and requirements for the power supplies:
+
+|Supply source | Valid range |
+|--------------|-------------|
+|OpenSDAv2 USB|5V|
+|K64 USB|5V|
+|Vin Pin|5 - 9V|
+|3.3V Header (J20)|1.71 - 3.6V|
+|DC Jack (Not populated)|5 - 9V|
+
+The **OpenSDAv2 circuit is only operational** when a USB cable is connected and supplying power to `OpenSDAv2 USB`. However, the protection circuitry is in place to enable multiple sources to be powered at once.
+
+###### Serial and Debug Adapter version 2 (OpenSDAv2)
+
+OpenSDAv2 is a **serial and debug adapter circuit** which **includes** an **open-source hardware design**, an **open-source bootloader**, and **debug interface software**. It bridges serial and debug communications between USB host and an embedded target processor as shown in the figure below.
+
+![](Afbeeldingen/OpenSDAv2.jpg)
+
+###### User's guide
+
+For additional information, you can click on the next link:
+[User's guide](https://developer.mbed.org/media/uploads/GregC/frdm-k64f_ug_rev0.1.pdf) 
+
 #### Pinout
 
 ###### UART
