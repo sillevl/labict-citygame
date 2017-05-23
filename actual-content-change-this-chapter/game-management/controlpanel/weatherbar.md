@@ -6,9 +6,7 @@ To acquire the local weather, we made use of the [API](http://openweathermap.org
 
 ## Checking the weatherdata \(JSON Validator\)
 
-##### A validation scheme was made with [https://jsonschema.net/\#/editor](https://jsonschema.net/#/editor "JSON Scheme.net")
-
-
+##### A validation scheme was made with [JSONScheme.net](https://jsonschema.net/#/editor "JSON Scheme generator")
 
 Before we store the data, it first needs to be checked if the response we've got was ok. For this, we made use of a JSON Validator with the use of [Webmozart's library](https://github.com/webmozart/json).
 
