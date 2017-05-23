@@ -10,7 +10,7 @@ If a group select the "submit" button, than is the data going directly the colle
 
 ## UML Booking class
 
-![](/assets/booking_class)
+![](/assets/booking_class.png)
 
 \*[https://jqueryui.com/datepicker/](https://jqueryui.com/datepicker/ "jQuery Datepicker")
 
