@@ -32,7 +32,7 @@ monolog will log each request to a page (not a file) in the `logs/app.log` file 
 - keytype
 
 example:
-```
+\```
 [2017-05-17 12:05:45] slim-app.INFO: GET=>http://localhost:8080/controlpanel with key: lpVw.8eEID (master) [] {"uid":"949184e"}
 ```
 explenation:
