@@ -34,7 +34,7 @@ The **OpenSDAv2 circuit is only operational** when a USB cable is connected and 
 
 OpenSDAv2 is a **serial and debug adapter circuit** which **includes** an **open-source hardware design**, an **open-source bootloader**, and **debug interface software**. It bridges serial and debug communications between USB host and an embedded target processor as shown in the figure below.
 
-![](Afbeeldingen/OpenSDAv2.jpg)
+![](/assets/OpenSDAv2.JPG)
 
 ###### User's guide
 
