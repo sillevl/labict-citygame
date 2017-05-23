@@ -103,7 +103,6 @@ Now that the two devices received the message, they can use the data to perform 
 
 ![](/assets/MQTT_example1.png)
 
-## **WS\(Websocket\)**
 
 
 
