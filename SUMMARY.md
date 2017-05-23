@@ -46,6 +46,7 @@
     * [Edit games](actual-content-change-this-chapter/game-management/edit-games.md)
   * [Booking](actual-content-change-this-chapter/game-management/booking.md)
   * [Upload](actual-content-change-this-chapter/upload.md)
+  * [CSS](actual-content-change-this-chapter/game-management/css.md)
 * [Game Creator](game-creator.md)
   * [Connection with Hardware and Game Management](game-creator/connection-with-hardware-and-game-management.md)
     * [Serial Connection](game-creator/serial-connection.md)
