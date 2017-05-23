@@ -45,7 +45,7 @@
   * [Upload](actual-content-change-this-chapter/upload.md)
 * [Game Creator](game-creator.md)
   * [Connection with Hardware and Game Management](game-creator/connection-with-hardware-and-game-management.md)
-    * Serial Connection
+    * [Serial Connection](game-creator/serial-connection.md)
     * [API](game-creator/api.md)
 
 ## Costings
