@@ -72,7 +72,7 @@ In our project we do not need the configuration register, but I wanted to implem
 
 This register holds the result of the most recent conversion. In the normal mode, a new conversion is started whenever this register is read. As you can see in the image below, the **conversion result** is just **from bit D4 until bit D11**. So we must **filter these 2 bytes** in order to get the result. In the following topics, I will give you more information about how to do this.
 
-![](Afbeeldingen/conversion_result_register.jpg)
+![](/assets/conversion_result_register.JPG)
 
 #### Write
 
