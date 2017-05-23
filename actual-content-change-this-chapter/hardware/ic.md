@@ -1,4 +1,4 @@
-![](/assets/I2C.JPG)## I²C
+## I²C
 
 #### Introduction
 
