@@ -34,6 +34,7 @@
     * [Problems](actual-content-change-this-chapter/game-management/connection-between-website-and-mbed/problems.md)
     * [The websocket](actual-content-change-this-chapter/game-management/connection-between-website-and-mbed/the-websocket.md)
     * [TTN library](actual-content-change-this-chapter/game-management/connection-between-website-and-mbed/ttn-library.md)
+    * [Sending back to the MBED](actual-content-change-this-chapter/game-management/connection-between-website-and-mbed/sending-back-to-the-mbed.md)
   * [Database](actual-content-change-this-chapter/game-management/database.md)
   * [Controlpanel](actual-content-change-this-chapter/game-management/controlpanel.md)
     * [Weatherbar](actual-content-change-this-chapter/game-management/controlpanel/weatherbar.md)
