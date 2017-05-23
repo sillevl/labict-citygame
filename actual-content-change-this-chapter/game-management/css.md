@@ -44,21 +44,31 @@
 
 #### Homepage
 
+![](/assets/m.homepage.jpg)
+
 #### Bookingpage
 
+![](/assets/m.booking.jpg)
+
 #### Scorepage
+
+![](/assets/m.scores.jpg)
 
 #### Aboutpage
 
 #### Loginpage
 
+![](/assets/m.login.jpg)
+
 #### Controlpanel
+
+
 
 #### Imageuploader
 
-#### Maintenance
+![](/assets/m.upload.jpg)
 
-#### Game selector/"editor"
+#### Maintenance & Game selector/"editor"
 
 
 
