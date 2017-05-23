@@ -42,7 +42,9 @@
     * [View all bookings](actual-content-change-this-chapter/game-management/view-all-bookings.md)
     * [Edit games](actual-content-change-this-chapter/game-management/edit-games.md)
 * [Game Creator](game-creator.md)
-  * [API](game-creator/api.md)
+  * [Connection with Hardware and Game Management](game-creator/connection-with-hardware-and-game-management.md)
+    * Serial Connection
+    * [API](game-creator/api.md)
 
 ## Costings
 
