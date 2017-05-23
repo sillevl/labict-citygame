@@ -51,7 +51,7 @@ The I²C address of the slave is always a 7 bit address. The I²C 7 bit address 
 
 The I²C address can be found in the datasheet, it depends on the fact how you connect the IC. In this project we connected the pin `ADDR` to the `ground`.
 
-![](Afbeeldingen/I2C address.jpg)
+![](/assets/I2C address.JPG)
 
 #### Registers
 
