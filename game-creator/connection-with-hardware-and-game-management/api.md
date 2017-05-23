@@ -6,7 +6,9 @@ An application programming interface, also known as API, combines protocols, too
 
 All of this is possible because API shares a very limited information about the sending program's internal functions to the outside world. Because of this the application can share data and they can take actions on each others behalf without developpers requiring to share all their software's code.
 
-* ### Different APIs
+* ### Most important APIs
+
+APIs between software libraries are something we need on a daily basis, copy and pasting for instance would be impossible without this. it allows a seperation from its implementation so that programs written in one language can use libraries written in another.
 
 There are also** System-level APIs** which make it possible for an application like LibreOffice or Word to run on an OS like windows. The Windows API is well known for being backwards compatible, so older applications will still work on newer versions of windows by putting it in the "Compatibility mode."
 
@@ -17,9 +19,7 @@ We ** **encounter** Web APIs **on a daily basis, if you go to a site which for e
 API can be used for everything that needs to send data from one
 
 * ### How do APIs Work
-
 * ### How did we use API in the VIVES City Game project
-
 * ### 
 
 
