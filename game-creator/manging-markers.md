@@ -34,7 +34,5 @@ First we work on the draggable marker. We assumed a series of difficulties, for 
 
 The draggable radio was more difficult. Methods that came in the program that we are based, not give us solution to a small bug which today continues in the program. The bug is to confirm the variation of the radio, or when we move the circle, we have to do is click inside the circle is drawn. If we do not click, the operation is not confirmed.![](/assets/radius.png)This sequence of images represents the small bug in the radio.
 
-
-
-
+_Everything about this part of the project, is located in a library called "gamecreator.map"_
 
