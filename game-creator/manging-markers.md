@@ -19,18 +19,18 @@ When we already knew how to correctly add the marker, we think on how to add som
 * Mission Number: it is set automatically by the program.
 * Name Mission: Official name of the mission.
 * Objectuve: Objective of the mission.
-* Position: Latitude and longitude. We obtain this value when we click on the map. The position is variable.
+* Position: Latitude and longitude. We obtain this value when we click on the map. The position can change manually.
 * Radius: The radius of the marker that you want in each mission.
 
-Add the radio on the map was not an issue, because the library where we are based, had a specific method to add a circle to the map.
-
 ![](/assets/AddDialogWindow.png)
+
+Add the radio on the map was not an issue, because the library where we are based, had a specific method to add a circle to the map.![](/assets/ExampleRadiusandMap.png)
 
 ### Draggable marker and radius
 
 This section has been the most laborious and that more difficulties we found on the markers. But finally we have achieved pretty good results.
 
-First we work on the draggable marker. We assumed a series of difficulties, for example remove the previous marker. But we solve it and now works perfectly.
+First we work on the draggable marker. We assumed a series of difficulties, for example remove the previous marker. But we solve it and now works perfectly. You can click on the marker and drag it to another part of the map. The new position was saved.
 
 The draggable radio was more difficult. Methods that came in the program that we are based, not give us solution to a small bug which today continues in the program. The bug is to confirm the variation of the radio, or when we move the circle, we have to do is click inside the circle is drawn. If we do not click, the operation is not confirmed.![](/assets/radius.png)This sequence of images represents the small bug in the radio.
 
