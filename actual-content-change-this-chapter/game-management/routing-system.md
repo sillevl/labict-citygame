@@ -60,3 +60,12 @@ All routes in this controller start with `/adminpage/editGame/{gameID}` with {ga
 | POST | / | redirects to the get version, but this time without the ? at the end of the url |
 | POST | [/addScenario](edit-games/scenario) | changes a scenario and returns editgame page |
 | POST | [/addTeamNames](edit-games/teamnames) | saves teamnames to the database |
+
+
+# processing a request
+
+![](/assets/routering1.png)
+
+![](/assets/routering2.png)
+
+
