@@ -56,6 +56,26 @@
 
 #### Aboutpage
 
+For our aboutpage, we've included an `<iframe>` with the content of the GitBook. Many attempt were made with CSS to resize the iframe but we ended up using JavaScript. Window is resized with this code below.
+
+```js
+$( document ).ready(function() {
+  if(window.location.pathname == "/about") {
+    console.log("iFrame sizing should be executed");
+    function scaleIframe(){
+      window.updateIframe = function() {
+        var h = $(window).height();
+        $("#iframe").height(h-56);
+      }
+      window.updateIframe();
+    }
+    $(window).resize(scaleIframe);
+    $(window).onload = scaleIframe();
+    console.log("iFrame sizing was executed");
+  }
+});
+```
+
 #### Loginpage
 
 ![](/assets/m.login.jpg)
