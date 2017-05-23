@@ -25,3 +25,14 @@ Because this script runs on the server, the user will never see critical informa
 
 Websockets makes it possible to send new data to the browser without refreshing the page.
 
+
+
+## Game UML
+
+The game creator puts a JSON game in the database.   
+When a file loaded in we converts it directly to a game object because of object oriented programming.
+
+![](/assets/cp_game_uml)
+
+
+
