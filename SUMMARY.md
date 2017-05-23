@@ -33,6 +33,7 @@
 * [Game Management](actual-content-change-this-chapter/game-management.md)
   * [framework](actual-content-change-this-chapter/game-management/framework.md)
   * [logs](actual-content-change-this-chapter/game-management/logs.md)
+  * [routing system](actual-content-change-this-chapter/game-management/routing-system.md)
   * [Connection between website and MBED](actual-content-change-this-chapter/game-management/connection-between-website-and-mbed.md)
     * [Problems](actual-content-change-this-chapter/game-management/connection-between-website-and-mbed/problems.md)
     * [The websocket](actual-content-change-this-chapter/game-management/connection-between-website-and-mbed/the-websocket.md)
@@ -52,7 +53,7 @@
   * [Booking](actual-content-change-this-chapter/game-management/booking.md)
   * [Upload](actual-content-change-this-chapter/upload.md)
   * [CSS](actual-content-change-this-chapter/game-management/css.md)
-  * [Scores](actual-content-change-this-chapter/game-management/scores.md)
+  * routing system
 * [Game Creator](game-creator.md)
   * [Connection with Hardware and Game Management](game-creator/connection-with-hardware-and-game-management.md)
     * [API](game-creator/connection-with-hardware-and-game-management/api.md)
