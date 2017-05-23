@@ -28,5 +28,14 @@ or this one from a api post from the game creators:
 [2017-05-17 11:49:57] slim-app.INFO: POST=>http://330c3ac6.ngrok.io:8080/secret/creators with key:  (logout) [] {"uid":"a280451"}
 ```
 
+the code responsible for this logging:
 
+```php
+/* log asked route and method //*/
+$uri=$request->getUri();
+$page=$uri->getScheme()."://".$uri->getHost().":".$uri->getPort().
+       $uri->getPath()." with key: ".$this->key->getkey().
+       " (".$this->key->getType().")";
+$logger->info($request->getMethod()."=>".$page);
+```
 
