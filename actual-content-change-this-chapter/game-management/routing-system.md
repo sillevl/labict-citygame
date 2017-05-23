@@ -11,8 +11,8 @@ this controller is responsible for all the routes that do not require a valid lo
 | :----|:------- | :------------- |
 | GET | / | shows home page |
 | GET | /about | shows about page |
-| GET | /booking | shows a form to book a game |
-| POST | /booking | process the booking and redirects to home |
+| GET | [/booking](booking) | shows a form to book a game |
+| POST | [/booking](booking) | process the booking and redirects to home |
 | GET | /scores | show scores of past games |
 | GET | /login | shows a login page |
 | POST | /login | process login and redirects to login on failure or the needed page on success |
@@ -23,8 +23,8 @@ this controller is responsible for all the routes for a game master or team memb
 
 | method | page | description |
 | :-|:-|:-|
-| GET | /control | page for game master |
-| GET | /upload | page for team members |
+| GET | [/control](controlpanel) | page for game master |
+| GET | [/upload](upload) | page for team members |
 
 ## apicontroller
 This controllers handles everything for the api.
@@ -52,5 +52,11 @@ To get in any route in this controller you need to enter the key set as `ADMINKE
 ## gamecontroller
 
 This controller handles game specific things for the system admin.
-All routes in this controller start with `/adminpage/editGame/{gameID}`.
+All routes in this controller start with `/adminpage/editGame/{gameID}` with {gameID} being the 24 characters hex code that represents the ID of the game.
 
+| method | page | description |
+| :-|:-|:-|
+| GET | [/](edit-games) | displays all the info from the game and shows the buttons to do actions |
+| POST | / | redirects to the get version, but this time without the ? at the end of the url |
+| POST | [/addScenario](edit-games/scenario) | changes a scenario and returns editgame page |
+| POST | [/addTeamNames](edit-games/teamnames) | saves teamnames to the database |
