@@ -9,9 +9,13 @@ The keys are generated when you choose a scenario and if you link the mbed to th
 After this they are inserted into the login collection, together with the function of the keys(team or master).
 
 
-## **UML**
+### **UML**
 Login collection
 ![](/assets/login uml.PNG)
 
 Key class
 ![](/assets/keys uml.PNG)
+
+### **Problems**
+
+### **Fixes**
