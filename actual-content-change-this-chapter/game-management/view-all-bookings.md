@@ -18,7 +18,7 @@ For getting the information, we needed to create some getters. The getter in the
 
 ### Accept button
 
-When you press on the accept button from aspecific booking, then all the information from that specific booking will be placed in a new game in the game collection. \(See picture below\)
+When you press on the accept button from a specific booking, then all the information from that specific booking will be placed in a new game in the game collection. \(See picture below\)
 
 ![](/assets/Acceptbutton.png)
 
@@ -31,6 +31,4 @@ For this event to take place, we need some methods to use in the routes for the 
 When you press on the deny button of a specific booking, then the booking will be deleted out of the database. The method that we created for deleting the specific booking is deleteBooking\(\) \(See picture below\). It deletes the booking by searching for the matching "oid" of the specific booking that you have denied by pressing on the button.
 
 ![](/assets/denybutton.png)
-
-
 
