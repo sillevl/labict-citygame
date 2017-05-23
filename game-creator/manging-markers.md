@@ -32,7 +32,7 @@ This section has been the most laborious and that more difficulties we found on 
 
 First we work on the draggable marker. We assumed a series of difficulties, for example remove the previous marker. But we solve it and now works perfectly. You can click on the marker and drag it to another part of the map. The new position was saved.
 
-The draggable radio was more difficult. Methods that came in the program that we are based, not give us solution to a small bug which today continues in the program. The bug is to confirm the variation of the radio, or when we move the circle, we have to do is click inside the circle is drawn. If we do not click, the operation is not confirmed.![](/assets/radius.png)This sequence of images represents the small bug in the radio.
+The draggable radio was more difficult. Methods that came in the program that we are based, not give us solution to a small bug which today continues in the program. The error is that when we want to change the size of the RADIUS, or move the radio to another location, we have to click inside the circle which is drawn. If we do not click, the operation is not confirmed. We expected that releasing the mouse to make the different variations, you could capture that event, but there is an EventHandler for this action.![](/assets/radius.png)This sequence of images represents the small bug in the radio.
 
 _Everything about this part of the project, is located in a library called "gamecreator.map"_
 
