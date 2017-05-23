@@ -28,4 +28,4 @@ The master microcontroller dedicates a **unique output pin** to each device (SS1
 
 ###### Header pinout
 
-![](Afbeeldingen/pinout.jpg)
+![](/assets/pinout.JPG)
