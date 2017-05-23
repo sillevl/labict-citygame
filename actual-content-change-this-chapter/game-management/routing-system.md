@@ -1,4 +1,4 @@
-# routing system
+# routes
 
 ## routes.php
 The routes.php file says wich route should do what in the slim framework.  
