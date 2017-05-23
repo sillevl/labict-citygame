@@ -14,6 +14,7 @@
 
 * [Hardware](actual-content-change-this-chapter/hardware.md)
   * [Arm Processor](actual-content-change-this-chapter/hardware/test.md)
+  * [I²C](actual-content-change-this-chapter/hardware/ic.md)
   * [LoRa Tranceiver](actual-content-change-this-chapter/hardware/lora-tranceiver.md)
   * [GPS Chip](actual-content-change-this-chapter/hardware/gps-chip.md)
   * [Buzzer](actual-content-change-this-chapter/hardware/buzzer.md)
@@ -24,7 +25,7 @@
   * [Keypad](actual-content-change-this-chapter/hardware/keypad.md)
   * [Battery System](actual-content-change-this-chapter/hardware/battery-system.md)
   * [PCB Design](actual-content-change-this-chapter/hardware/pcb-design.md)
-  * [Extra Information](actual-content-change-this-chapter/hardware/extra-information.md)
+  * I²C
 * [Firmware](actual-content-change-this-chapter/firmware.md)
   * [General Overview](actual-content-change-this-chapter/firmware/general-overview.md)
   * [How does the game work?](actual-content-change-this-chapter/firmware/how-does-the-game-work.md)
