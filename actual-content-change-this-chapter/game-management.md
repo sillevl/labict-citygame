@@ -15,8 +15,8 @@ startserver.bat
 
 # Supported webrowsers
 
-* Google chrome \(Dekstop/Mobile\)
-* Mozilla Firefox
+* Google chrome \(Desktop/Mobile\)
+* Mozilla Firefox \(Desktop\)
 
 
 
