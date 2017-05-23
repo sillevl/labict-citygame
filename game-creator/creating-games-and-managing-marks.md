@@ -4,9 +4,19 @@ At the beginning of the project, our intention was to create different types of 
 
 ### Location Game
 
-This first game is based on the location of a point. The game is go to a particular place and a particular activity, for example make a puzzle. Therefore, the first problem that we have faced, has been to place correctly and to manage the markers on the map so that the user who handled our application could choose the point of the most comfortable and efficient way \(see paragraph Managing Markes and Dialog Windows\).
+This first game is based on the location of a point. The game is that one team go to a particular place and have to do a particular activity, for example make a puzzle. Therefore, the first problem how to place correctly the markers and  how to manage the markers on the map.  We have designed the application so the user who handled it could choose the point in the most comfortable and efficient way \(see paragraph Managing Markes and Dialog Windows\).
 
-Once resolved this problem, we only had to give way to the mission, with a number of mission, a name, a target, a radio and a specific location.
+Once resolved this problem, we only had to give some importants parameters to mission, like a number of mission, a principal name, an objective, a radio and a specific location.
+
+![](/assets/LocationGame.png)
+
+Once developed this idea, we decided to make each mission type Location Game, had the possibility to add more than one location per mission. We decided to add a button named "Other Mission" to add it.![](/assets/AddMission1.png)![](/assets/addMission2.png)We can see the popup window that appears when you click previously in "Other Location" and then click with the right button of the mouse on another point.![](/assets/import111.png)This is the final result that we obtain when we did the following steps.
+
+### Key Switch Game
+
+When we have just created the Location Game, we decided to create another game mode: Key Switch Game. This type of game is very similar to the previous, but his most important difference is that it may only have one location per mission. The main objective of this game is to find a key that works as a switch in the Hardware box.
+
+
 
 
 
