@@ -6,7 +6,7 @@ The **Freedom-K64F** is an ultra-low-cost development platform. The flagship **F
 
 For more information click [here](https://developer.mbed.org/platforms/FRDM-K64F/).
 
-![](assets/frdm.jpg)
+![](Assets/frdm.JPG)
 
 #### Pinout
 
@@ -28,4 +28,4 @@ The master microcontroller dedicates a **unique output pin** to each device (SS1
 
 ###### Header pinout
 
-![](Afbeeldingen/pinout.jpg)![](/assets/frdm.JPG)
+![](Afbeeldingen/pinout.jpg)![](/assets/frdm.JPGA
