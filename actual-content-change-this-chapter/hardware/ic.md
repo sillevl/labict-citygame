@@ -59,13 +59,15 @@ The I²C address can be found in the datasheet, it depends on the fact how you c
 
 The **address pointer** determines which of the data registers is accessed by the I²C interface. The first data byte of every write operation is stored in the address pointer register. This value selects the register that the following data bytes will be written to or read from. Only the three LSBs (Least Significant Bits) of this register are variable. The three **Least Significant Bits** are the three first bits on the right side. The other bits must always be written to as zeros. After a power-on reset, the pointer register defaults to all zeros, this is **equal to the pointer address** of the **Conversion Result Register**.
 
-![](Afbeeldingen/address_pointer_register.jpg)
+![](/assets/address_pointer_register.JPG)
 
 ###### Configuration Register
 
 In our project we do not need the configuration register, but I wanted to implement it in the library, to make it more user friendly. With this register you can **change the configurations** of the IC.
 
-![](Afbeeldingen/configuration_register_1.jpg)
+![](/assets/configuration_register_1.JPG)
+
+
 ![](Afbeeldingen/configuration_register_2.jpg)
 
 ###### Conversion Result Register
