@@ -66,7 +66,7 @@ The **address pointer** determines which of the data registers is accessed by th
 In our project we do not need the configuration register, but I wanted to implement it in the library, to make it more user friendly. With this register you can **change the configurations** of the IC.
 
 ![](/assets/configuration_register_1.JPG)
-![](Afbeeldingen/configuration_register_2.jpg)
+![](/assets/configuration_register_2.JPG)
 
 ###### Conversion Result Register
 
