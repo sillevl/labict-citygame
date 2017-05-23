@@ -27,6 +27,7 @@
   * [PCB Design](actual-content-change-this-chapter/hardware/pcb-design.md)
 * [Firmware](actual-content-change-this-chapter/firmware.md)
   * [General Overview](actual-content-change-this-chapter/firmware/general-overview.md)
+  * [JSON in mbed](actual-content-change-this-chapter/firmware/json-in-mbed.md)
   * [How does the game work?](actual-content-change-this-chapter/firmware/how-does-the-game-work.md)
   * [Possible future improvements](actual-content-change-this-chapter/firmware/possible-future-improvements.md)
 * [Game Management](actual-content-change-this-chapter/game-management.md)
