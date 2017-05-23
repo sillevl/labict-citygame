@@ -82,7 +82,7 @@ $( document ).ready(function() {
 
 #### Controlpanel
 
-A bug on the controlpanel is present as seen at the bottom of the screenshot. The `<progress> </progress>` is not shown by the footer. The footer is a part of \[Foundation's 6.3.1 topbar\]\(http://foundation.zurb.com/sites/docs/top-bar.html Foundation topbar documentation\) because we couldn't find a footer provided by Foundation. The footer is not functional when viewed on a smartphone, the tablet version however, does not have this problem.
+A bug on the controlpanel is present as seen at the bottom of the screenshot. The `<progress> </progress>` is not shown by the footer. The footer is a part of \[Foundation's 6.3.1 topbar\]\([http://foundation.zurb.com/sites/docs/top-bar.html](http://foundation.zurb.com/sites/docs/top-bar.html) "Foundation topbar documentation"\) because we couldn't find a footer provided by Foundation. The footer is not functional when viewed on a smartphone, the tablet version however, does not have this problem.
 
 ![](/assets/m.controlpanel1.jpg)![](/assets/m.controlpanel2.jpg)
 
@@ -93,6 +93,4 @@ A bug on the controlpanel is present as seen at the bottom of the screenshot. Th
 #### Maintenance & Game selector/"editor"
 
 ![](/assets/m.maintenance.jpg)![](/assets/m.game-booking-editor.jpg)
-
-
 
