@@ -44,6 +44,8 @@
     * [Keys](actual-content-change-this-chapter/game-management/keys.md)
     * [View all bookings](actual-content-change-this-chapter/game-management/view-all-bookings.md)
     * [Edit games](actual-content-change-this-chapter/game-management/edit-games.md)
+      * [Teamnames](actual-content-change-this-chapter/game-management/edit-games/teamnames.md)
+      * [Scenario](actual-content-change-this-chapter/game-management/edit-games/scenario.md)
   * [Booking](actual-content-change-this-chapter/game-management/booking.md)
   * [Upload](actual-content-change-this-chapter/upload.md)
   * [CSS](actual-content-change-this-chapter/game-management/css.md)
