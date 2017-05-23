@@ -4,7 +4,11 @@
 
 To acquire the local weather, we made use of the [API](http://openweathermap.org/forecast5) of [OpenWeatherMap](http://openweathermap.org/). With this API we had the choice to receive data formatted in JSON or in XML, we went for JSON. The data is stored locally on the server where the website is running on.
 
-## Checking the weatherdata
+## Checking the weatherdata \(JSON Validator\)
+
+##### A validation scheme was made with [https://jsonschema.net/\#/editor](https://jsonschema.net/#/editor "JSON Scheme.net")
+
+
 
 Before we store the data, it first needs to be checked if the response we've got was ok. For this, we made use of a JSON Validator with the use of [Webmozart's library](https://github.com/webmozart/json).
 
@@ -61,7 +65,7 @@ function loadCachedWeatherData() {
 
 #### Correct forecast
 
-One of the advantage of local stored data is that we can provide weather for 5 days if OpenWeatherMap.org would be down. A algorithm \(see snippit below\) is used to determine what te correct forecast with the most approaching time is. 
+One of the advantage of local stored data is that we can provide weather for 5 days if OpenWeatherMap.org would be down. A algorithm \(see snippit below\) is used to determine what te correct forecast with the most approaching time is.
 
 ```js
 function searchCacheForCorrespondingDataArrayLocation(){
