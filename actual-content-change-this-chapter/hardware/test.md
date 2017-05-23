@@ -1,4 +1,4 @@
-![](/assets/SPI.JPG)## ARM Processor
+## ARM Processor
 
 #### Introduction
 
@@ -24,7 +24,7 @@ With **I²C**, **serial data `(SDA)`** and **serial clock `(SCL)`** lines are sh
 
 The master microcontroller dedicates a **unique output pin** to each device (SS1, SS2, and SS3 in this illustration below). When the master microcontroller wants to **talk to a device**, it asserts that device's **chip-select** input pin by **pulling it to logic LOW**, and the conversation begins over the data bus. With the **chip-select LOW**, the corresponding slave listens to the data on the bus. Meanwhile, all **other devices ignore the conversation** between the master and it's chosen slave by **keeping their bus pins** in a **high impedance** state.
 
-![](Assets/SPI.jpg)
+![](/assets/SPI.JPG)
 
 ###### Header pinout
 
