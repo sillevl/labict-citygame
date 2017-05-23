@@ -26,7 +26,11 @@ For this event to take place, we need some methods to use in the routes for the 
 
 ![](/assets/Acceptbutton2.png)
 
+### Deny button
 
+When you press on the deny button of a specific booking, then the booking will be deleted out of the database. The method that we created for deleting the specific booking is deleteBooking\(\) \(See picture below\). It deletes the booking by searching for the matching "oid" of the specific booking that you have denied by pressing on the button.
+
+![](/assets/denybutton.png)
 
 
 
