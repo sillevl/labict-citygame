@@ -16,6 +16,16 @@ Login collection
 Key class
 ![](/assets/keys uml.PNG)
 
-### **Problems**
+### **Evolution of the key class**
 
+### **Problems**
+The first problem that occured was when we made the keys dynamic.
+The keys were not yet linked to a game so you could login with any random generated key.
+The second problem was not a problem with the keys but more with the database, we had more and more database errors, you just had to refresh the page to fix it.
+But we needed to lessen the workload of the database.
+We did this by adding a bulkinsert function to the database class.
+Instead of opening 4 connections to the database we needed only 2.
+The third problem were just bad functions in the key class.
 ### **Fixes**
+We fixed all of these problems by a lot of refactoring of the database and key class.
+We also linked the keys to a game so that every key that was generated belonged only to 1 function (team or gamemaster)
