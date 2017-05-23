@@ -34,7 +34,6 @@
     * [Problems](actual-content-change-this-chapter/game-management/connection-between-website-and-mbed/problems.md)
     * [The websocket](actual-content-change-this-chapter/game-management/connection-between-website-and-mbed/the-websocket.md)
     * [TTN library](actual-content-change-this-chapter/game-management/connection-between-website-and-mbed/ttn-library.md)
-    * [Sending back to the MBED](actual-content-change-this-chapter/game-management/connection-between-website-and-mbed/sending-back-to-the-mbed.md)
   * [Database](actual-content-change-this-chapter/game-management/database.md)
   * [Controlpanel](actual-content-change-this-chapter/game-management/controlpanel.md)
     * [Weatherbar](actual-content-change-this-chapter/game-management/controlpanel/weatherbar.md)
@@ -49,8 +48,10 @@
   * [Upload](actual-content-change-this-chapter/upload.md)
 * [Game Creator](game-creator.md)
   * [Connection with Hardware and Game Management](game-creator/connection-with-hardware-and-game-management.md)
-  * [API](game-creator/api.md)
-  * [Serial Connection](game-creator/serial-connection.md)
+    * [Serial Connection](game-creator/serial-connection.md)
+    * [API](game-creator/api.md)
+  * [Manging Markers](game-creator/manging-markers.md)
+  * [Creating Games](game-creator/creating-games-and-managing-marks.md)
 
 ## Costings
 
