@@ -6,7 +6,7 @@ The **Freedom-K64F** is an ultra-low-cost development platform. The flagship **F
 
 For more information click [here](https://developer.mbed.org/platforms/FRDM-K64F/).
 
-![](Assets/frdm.JPG)
+![](Assets/frdm.jpg)
 
 #### Pinout
 
