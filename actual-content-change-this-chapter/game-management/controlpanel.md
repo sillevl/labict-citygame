@@ -21,18 +21,22 @@ At this webpage the "gamemaster" can view the gameprogress and locate where the 
 In our project we're using node.js and websockets.
 
 NodeJS is an  Event-driven I/O server-side JavaScript environment.  
-Because this script runs on the server, the user will never see critical information \(passwords for the database\)
+Because this script runs on the server, the user will never see critical information \(passwords for the database\).
 
 Websockets makes it possible to send new data to the browser without refreshing the page.
 
 
 
+## Notifications
+
+To get the attention of the gamemaster when a mission is finished there is an alert-sound and a pop-up shows up in the bottom.
+
+![](/assets/cp_notification)
+
 ## Game UML
 
-The game creator puts a JSON game in the database.   
+The game creator puts a JSON game in the database.  
 When a file loaded in we converts it directly to a game object because of object oriented programming.
 
-![](/assets/cp_game_uml)
-
-
+![](/assets/cp_game_uml.png)
 
