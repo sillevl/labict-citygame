@@ -18,7 +18,7 @@ We ** **encounter** Web APIs **on a daily basis, if you go to a site which for e
 
 * ### How can API be used
 
-API can be used for everything that needs to send data from one 
+API can be used for everything that needs to send data from one
 
 
 
@@ -30,7 +30,9 @@ API can be used for everything that needs to send data from one
 
 * ### How did we use API in the VIVES City Game project
 
-## 
+
+
+
 
 * ### 
 
