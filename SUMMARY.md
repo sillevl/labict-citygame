@@ -32,6 +32,7 @@
   * [Possible future improvements](actual-content-change-this-chapter/firmware/possible-future-improvements.md)
 * [Game Management](actual-content-change-this-chapter/game-management.md)
   * [framework](actual-content-change-this-chapter/game-management/framework.md)
+  * [logs](actual-content-change-this-chapter/game-management/logs.md)
   * [Connection between website and MBED](actual-content-change-this-chapter/game-management/connection-between-website-and-mbed.md)
     * [Problems](actual-content-change-this-chapter/game-management/connection-between-website-and-mbed/problems.md)
     * [The websocket](actual-content-change-this-chapter/game-management/connection-between-website-and-mbed/the-websocket.md)
