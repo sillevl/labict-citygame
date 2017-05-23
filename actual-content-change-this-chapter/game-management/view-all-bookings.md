@@ -16,3 +16,17 @@ For getting the information, we needed to create some getters. The getter in the
 
 ![](/assets/Allbookingsuml.png)
 
+### Accept button
+
+When you press on the accept button from aspecific booking, then all the information from that specific booking will be placed in a new game in the game collection. \(See picture below\)
+
+![](/assets/Acceptbutton.png)
+
+For this event to take place, we need some methods to use in the routes for the accept button. First we need to get the accepted booking out of the database. For this we made a getBooking\(\) method \(See below right UML\). This method gets the specific booking by looking for its "oid" in the collection. For getting all the information from the specific booking that we got from the getBooking\(\) method, we used a method from the Game class. This method is createFromBooking\(\) \(See below left UML\). This method will get all the information from the accepted booking and put it into a new game in the game collection by y using the save\(\) method \(See below left UML\).
+
+![](/assets/Acceptbutton2.png)
+
+
+
+
+
