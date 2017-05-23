@@ -17,7 +17,9 @@ Key class
 ![](/assets/keys uml.PNG)
 
 ### **Evolution of the key class**
-
+We started with static keys, but this gave some issues.
+After this we made a random generator for the keys.
+We refactored the keys class and made some extra functions.
 ### **Problems**
 The first problem that occured was when we made the keys dynamic.
 The keys were not yet linked to a game so you could login with any random generated key.
