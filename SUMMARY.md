@@ -50,6 +50,8 @@
   * [Connection with Hardware and Game Management](game-creator/connection-with-hardware-and-game-management.md)
     * [Serial Connection](game-creator/serial-connection.md)
     * [API](game-creator/api.md)
+  * [Manging Markers](game-creator/manging-markers.md)
+  * [Creating Games](game-creator/creating-games-and-managing-marks.md)
 
 ## Costings
 
