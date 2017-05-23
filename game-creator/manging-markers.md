@@ -1,4 +1,4 @@
-# **Managing Markers**
+# **Managing Markers and Dialog Windows**
 
 Manage Google map markers, has been a hard work and difficult. We have had various problems, which we have been resolving throughout the project. We will now make a summary of how evolved, and the final result that we have achieved.
 
