@@ -1,4 +1,4 @@
-## I²C
+![](/assets/I2C.JPG)## I²C
 
 #### Introduction
 
@@ -8,7 +8,7 @@ The I²C communication signals are **serial data `(SDA)`** and **serial clock `(
 * These two signals make it possible to **support serial communication** of 8 bit data bytes, 7 bit device addresses as well as control bits
 * Using just two wires makes it **cheap and simple to implement in hardware**
 
-![](Afbeeldingen/I2C.jpg)
+![](/assets/I2C.JPG)
 
 #### Using I²C in our project
 
