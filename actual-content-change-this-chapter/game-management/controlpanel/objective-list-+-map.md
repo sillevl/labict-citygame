@@ -1,6 +1,6 @@
 # Objective list
 
-In this list the master can see al the missions that the teams needed to completed.
+In this list the master can see the missions that the teams needed to completed.
 
 ## Situation 1: Master login
 
