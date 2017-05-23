@@ -6,7 +6,5 @@ First we create a button to manually enter the longitude and latitude.  When we 
 
 ![](/assets/LocationAndLongitude.png)
 
-
-
-It worked, and we decided to go further and we thought that it would be easier for the user to click on the screen to select the point. So, we decide to 
+It worked, and we wanted to go further. We thought that it would be easier for the user to click on the screen to select the point. So, we decided when the user click with the right button at one point specific to the map, a marker will appear at the point of the map that was clicked.
 
