@@ -16,6 +16,54 @@ Once developed this idea, we decided to make each mission type Location Game, ha
 
 When we have just created the Location Game, we decided to create another game mode: Key Switch Game. This type of game is very similar to the previous, but his most important difference is that it may only have one location per mission. The main objective of this game is to find a key that works as a switch in the Hardware box.
 
+Now, raised to us a new question. How to select a mission or another and how to differentiate them on the map. We decided to create two buttons to select each mission, and we decided to put different icons for each mission \(the same as the Game Management team\). 
+
+Now we will see how it has been the final map  with some screenshots.  
+
+![](/assets/Map1.png)If we don´t press any button, and we try to click with right button on the map, an error message like this appears.
+
+
+
+![](/assets/errormessage.png)
+
+![](/assets/locationgame.png)![](/assets/map3.png)
+
+![](/assets/keymission.png)
+
+![](/assets/mapFinal.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
