@@ -58,4 +58,4 @@ int main()
 
 Of course we need to make the program **Object Oriented**. **Object Oriented Programming `(OOP)`** is a programming paradigm based on the concepts of **objects**, which may contain **data**, in the form of fields, often known as **attributes**, and **code** in the form of procedures, often known as **methods**.
 
-With that been said, we need to create as example a **Mission class** that should give us all the values that are being stored in the **missions array** from that JSON file.
+With that been said, we need to create for example a **Mission class** that should give us all the values that are being stored in the **missions array** from that JSON file.
