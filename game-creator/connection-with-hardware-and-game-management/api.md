@@ -20,15 +20,11 @@ We ** **encounter** Web APIs **on a daily basis, if you go to a site which for e
 
 Because you are dependent on someone else, API isn't perfect. If the company you are dependent on suddenly decides to shutdown you are left with nothing and the application at your end will lose some functionality. So you have to keep in mind that the fact that you have a working API now, that might not be the case anymore in a few years depending on the place where you share/get data from.
 
-* ### How can API be used
-
-API can be used for everything that needs to send data from one application to another.
-
 * ### How did we use API in the VIVES City Game project
 
 We thought it would be way better if the user could just send the json file to the Game Management in stead of having to use a usb stick or something like that so we decided to implement API inside our project.
 
-Because java doesn't have API build in we had to rely on some prebuild packages. We chose OkHttp, OkHttp is an HTTP client for Android and Java applications with high speed and low bandwidth use. With this library we are able to create a class that stages our JSON file to be send to the Game Management
+Because java doesn't have API build in we had to rely on some prebuild packages. We chose OkHttp, OkHttp is an HTTP client for Android and Java applications with high speed and low bandwidth use. OkHttp also makes use of OkIO, this adds fast I/O and resizable buffers. With these 2 libraries we are able to create a class that stages our JSON file to be send to the Game Management.
 
 ![](/assets/OkHttp.png)
 
