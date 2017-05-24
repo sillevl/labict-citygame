@@ -11,9 +11,7 @@ Game Creator has been designed and developed as an application to create the dif
 
 ![](/assets/WelcomScene.png)The first step that we need to do to start the application is click on the button "File" which will only have one option available. That option is New, it let's you create a new game and lets you enter the following screen of the application.
 
-![](/assets/startscreen2.png)
-
-
+![](/assets/startscreen topbar.png)
 
 Each option do the following things:
 
@@ -23,6 +21,4 @@ Each option do the following things:
 * Upload: Upload the JSON file to Hardware Box.
 
 ![](/assets/MenuOptions.png)
-
-
 
