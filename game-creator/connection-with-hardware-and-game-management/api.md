@@ -30,6 +30,8 @@ We thought it would be way better if the user could just send the json file to t
 
 Because java doesn't have API build in we had to rely on some prebuild packages. We chose OkHttp, OkHttp is an HTTP client for Android and Java applications with high speed and low bandwidth use.
 
+![](/assets/OkHttp.png)
+
 * ### 
 
 
