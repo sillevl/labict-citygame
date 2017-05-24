@@ -51,6 +51,7 @@
       * [Teamnames](actual-content-change-this-chapter/game-management/edit-games/teamnames.md)
       * [Scenario](actual-content-change-this-chapter/game-management/edit-games/scenario.md)
   * [Booking](actual-content-change-this-chapter/game-management/booking.md)
+  * [Scores](actual-content-change-this-chapter/game-management/scores.md)
 * [Game Creator](game-creator.md)
   * [Connection with Hardware and Game Management](game-creator/connection-with-hardware-and-game-management.md)
     * [API](game-creator/connection-with-hardware-and-game-management/api.md)
