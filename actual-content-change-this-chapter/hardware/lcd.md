@@ -31,6 +31,31 @@ GND | 16  | GND   | Ground for led
 
 ![](/assets/UML.png)
 
+####Methods:
+
+- *setBacklight:*
+        float value between 1 and 0, 1 = 100% backlight and 0 = 0% backlight
+        This method changes the pwm value that controls a transistor that controls the backlight leds.
+        note: reduce backilght to preserve battery life
+
+- *setTime:*
+
+
+- *setBacklight:*
+
+
+
+- *setBacklight:*
+
+
+
+- *setBacklight:*
+
+
+
+
+
+
 
 #### Display driver:
 
