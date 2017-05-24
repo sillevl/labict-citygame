@@ -12,7 +12,7 @@ The I²C communication signals are **serial data `(SDA)`** and **serial clock `(
 
 #### Using I²C in our project
 
-It is very useful if you can get the amount of voltage of the battery. We used I²C to accomplish this feature. In the following topics I will give some examples of our program that we made to realize this. The whole program you can find [here](http://git.labict.be/alexvancoillie/City_Game_I2C) on this link. If you want to go immediately to the files of the project, click on this link: [files](http://git.labict.be/alexvancoillie/City_Game_I2C/tree/master).
+It is very useful if you can get the amount of voltage of the battery. We used I²C to accomplish this feature. In the following topics I will give some examples of our program that we made to realize this. The program you can find [here](http://git.labict.be/alexvancoillie/City_Game_I2C) on this link. If you want to go immediately to the files of the project, click on this link: [files](http://git.labict.be/alexvancoillie/City_Game_I2C/tree/master).
 
 #### Datasheet of the ADC081
 
