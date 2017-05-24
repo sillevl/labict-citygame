@@ -53,7 +53,7 @@ The PCB of the battery managment system
 
 \*The multimeter reads 3,89V
 
-As a consequence of being cut off from the batteries \(mosfets switched to a high impedance state\), the capacitors of the DC-DC boost converter will gradually give of their amassed voltage over time and thus result in a discharge and drop of the voltage over said capacitor. this can be seen in the following image.
+As a consequence of being cut off from the batteries \(mosfets switched to a high impedance state\), the capacitors of the DC-DC boost converter will gradually give of their amassed voltage over time and thus result in a discharge and drop of the voltage over said capacitor. This can be seen in the following image.
 
 ![](/assets/fge.PNG)
 
