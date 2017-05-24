@@ -10,7 +10,7 @@ To connect to thethingsnetwork you'll need the accesskey of your device.
 ## **How to install the library?**
 You'll need NPM and powershell for this.
 (you can download npm and nodejs here: https://www.npmjs.com/get-npm?utm_source=house&utm_medium=homepage&utm_campaign=free%20orgs&utm_term=Install%20npm)
-When you have installed NPM, go to the folder where you want to use the library, open up powershell there and in powershell type: "npm install --save ttn" to install the npm library.
+When you have installed NPM, go to the folder where you want to use the library, open up powershell there and in powershell type: "npm install --save ttn" to install the ttn library.
 
 
 
