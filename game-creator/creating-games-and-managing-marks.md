@@ -32,7 +32,7 @@ Now we will see how it has been the final map  with some screenshots.
 
 ### Missions Java classes
 
-Then we will see a representation of the UML language on the classes that make up the missions.![](/assets/MissionClasses.png)
+Then we will see a representation of the UML language on the classes that save the missions. We have an arrayList to save all the missions called missionDataBase.![](/assets/MissionClasses.png)
 
 We can see that we use the same class for both missions, since they share the same variables. On the other hand we have a component "MissionID" to know that mission is.
 
