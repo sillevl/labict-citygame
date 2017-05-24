@@ -38,9 +38,5 @@ _Everything about this part of the project, is located in a library called "game
 
 ### Java Classes about Markers and Dialog Window
 
-We can see then in UML format, classes that are directly related to markers and dialog Windows-![](/assets/UMLMARKERS.png)
-
-
-
-
+We can see then in UML format, classes that are directly related to markers and dialog Windows-![](/assets/UMLMARKERS.png)As we can see, these classes mark the behavior of the markers and the missions. There could be a refactoring of the AddLocationDialog and AddObjectiveDialog classes, but we prefer to keep it that way, because it follow the criterion of singular responsibility.
 
