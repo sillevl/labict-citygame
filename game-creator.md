@@ -13,13 +13,11 @@ Game Creator has been designed and developed as an application to create the dif
 
 ![](/assets/startscreen topbar.png)
 
-After we press the option to make a new game, we will be entering the next screen of the application in this screen
+After we press the option to make a new game, we will be entering the next screen of the application. In this screen the user will spent most of its time setting up the game, choosing their team name and adding a description of the game.
 
 ![](/assets/gamescene.png)
 
-
-
-Each option do the following things:
+In this screen the Topbar will have unlocked all its options, each of these options do one of the following things:
 
 * New: Create a new GamePacket for each Team and resets any previously made changes
 * Open: Open a collection of previously-created games
