@@ -34,7 +34,9 @@ Because java doesn't have API build in we had to rely on some prebuild packages.
 
 * ### Problems encountered
 
-In implementing OkHttp inside our project we encountered some small problems,
+In implementing OkHttp inside our project we encountered some small problems. Because we worked with a Maven Project, we couldn't simply drag and drop the necessary libraries into the project. Luckily OkHttp provided a piece of code we could add to our pom.xml file which automaticaly added all the necessary packages.
+
+![](/assets/OkHttp2.png)
 
 ### 
 
