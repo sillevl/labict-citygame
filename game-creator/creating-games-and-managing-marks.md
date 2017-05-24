@@ -4,13 +4,13 @@ At the beginning of the project, our intention was to create different types of 
 
 ### Location Game
 
-This first game is based on the location of a point. The game is that one team go to a particular place and have to do a particular activity, for example make a puzzle. Therefore, the first problem how to place correctly the markers and  how to manage the markers on the map.  We have designed the application so the user who handled it could choose the point in the most comfortable and efficient way \(see paragraph Managing Markes and Dialog Windows\).
+This first game is based on the location of a point. The game is that one team has to go to a particular place and do a particular activity, for example solve a puzzle. Therefore, the first problem we encountered was how to place the markers correctly and  how to manage the markers on the map. We have designed the application so the user who handled it could choose the point in the most comfortable and efficient way \(see paragraph Managing Markes and Dialog Windows\).
 
-Once resolved this problem, we only had to give some importants parameters to mission, like a number of mission, a principal name, an objective, a radio and a specific location.
+Once this problem was resolved, we only had to give some important parameters to mission, like a number of mission, a principal name, an objective, a radio and a specific location.
 
 ![](/assets/LocationGame.png)
 
-Once developed this idea, we decided to make each mission type Location Game, had the possibility to add more than one location per mission. We decided to add a button named "Other Mission" to add it.![](/assets/AddMission1.png)![](/assets/addMission2.png)We can see the popup window that appears when you click previously in "Other Location" and then click with the right button of the mouse on another point.![](/assets/import111.png)This is the final result that we obtain when we did the following steps.
+Once this idea was developed, we decided to make each mission type Location Game, had the possibility to add more than one location per mission. We decided to add a button named "Other Mission" to add it.![](/assets/AddMission1.png)![](/assets/addMission2.png)We can see the popup window that appears when you click previously in "Other Location" and then click with the right button of the mouse on another point.![](/assets/import111.png)This is the final result that we obtain when we did the following steps.
 
 ### Key Switch Game
 
