@@ -20,7 +20,7 @@
   * [Buzzer](actual-content-change-this-chapter/hardware/buzzer.md)
   * [LEDs](actual-content-change-this-chapter/hardware/leds.md)
   * [LCD](actual-content-change-this-chapter/hardware/lcd.md)
-  * [Key](actual-content-change-this-chapter/hardware/key.md)
+  * [KeySwitch](actual-content-change-this-chapter/hardware/key.md)
   * [Button](actual-content-change-this-chapter/hardware/button.md)
   * [Keypad](actual-content-change-this-chapter/hardware/keypad.md)
   * [Battery System](actual-content-change-this-chapter/hardware/battery-system.md)
