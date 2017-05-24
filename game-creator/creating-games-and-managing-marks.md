@@ -41,3 +41,5 @@ We can see that we use the same class for both missions, since they share the sa
 
 Each Mission class has an ArrayList of MissionLocations . Each MissionLocations class has variables about the position and radius \(latitude, longitude and radius\). The MissionLocations class is dependent on the class Mission. For each Mission should be at least one MissionLocations.
 
+Those classes belong to the package gamecreator.map and package gamecreator
+
