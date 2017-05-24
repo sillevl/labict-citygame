@@ -2,7 +2,7 @@
 
 ## Introduction
 
-At the beginning of our semester, we got the introduction for the second project we could work on during our studies of Elektronics-ICT, namely a city game. This is an interactive game that can be played with different teams. Each team needs to complete some missions throughout a city (in this case: the city of Ostend) using gaming boxes. These boxes contain: a processor, a buzzer, 5 LEDS, a LCD-screen, a LoRa Tranceiver, a complete battery system, a GPS chip, a keypad, 2 buttons and a keyswitch. If we put these pieces of hardware correctly together we should be wable to communicate with the game master who can see the status of the different teams.
+At the beginning of our semester, we got the introduction for the second project we could work on during our studies of Elektronics-ICT, namely a city game. This is an interactive game that can be played with different teams. Each team needs to complete some missions throughout a city (in this case: the city of Ostend) using gaming boxes. These boxes contain: a processor, a buzzer, 5 LEDS, a LCD-screen, a LoRa Tranceiver, a complete battery system, a GPS chip, a keypad, 2 buttons and a keyswitch. If we put these pieces of hardware correctly together we should be able to communicate with the game master who can see the status of the different teams.
 
 The hardware consists out of a few different parts. These can have an input, output or input/output function. Here is a list of all the individual parts with their function.
 
