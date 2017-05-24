@@ -14,15 +14,17 @@ There are also** System-level APIs** which make it possible for an application l
 
 We ** **encounter** Web APIs **on a daily basis, if you go to a site which for example has a little google maps map with a marker where the store is located, all of this is made possible with Web APIs. It's really hard, even almost impossible, to find a website which doesn't make use of any Web APIs. It makes for way better and more user friendly sites.
 
+* ### Problems with API
+
+Because you are dependent on someone else, API isn't perfect. If the company you are dependent on suddenly decides to shutdown you are left with nothing and the application at your end will lose some functionality. So you have to keep in mind that the fact that you have a working API now, that might not be the case anymore in a few years depending on the place where you share/get data from.
+
 * ### How can API be used
 
 API can be used for everything that needs to send data from one application to another.
 
-
-
 * ### How did we use API in the VIVES City Game project
 
-We thought it would be way better if the user could just send the json file to the Game Management in stead of having to
+We thought it would be way better if the user could just send the json file to the Game Management in stead of having to use a usb stick or something like that so we decided to implement API inside our project.
 
 * ### 
 
