@@ -16,7 +16,7 @@ As you can see this application has a lot of different buttons:
 * Send Data: Sends the chosen file to a connected storage device
 * Choose File: opens a filechooser where you can search for the desired JSON file
 
-When you click the **Choose Files** button, a new window will open which lets you search in your pc directories for the desired JSON file. After you've chosen the JSON file and connected a storage device you can press the Send Data button and it will send the JSON file to the Hardware Box over a USB connection.
+When you click the **Choose Files** button, a new window will open which lets you search in your pc's directories for the desired JSON file. After you've chosen the JSON file and connected a storage device you can press the Send Data button and it will send the JSON file to the Hardware Box over a USB connection.
 
 ![](/assets/file chooser.png)
 
