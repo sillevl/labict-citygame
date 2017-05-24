@@ -39,10 +39,11 @@ GND | 16  | GND   | Ground for led
         note: reduce backilght to preserve battery life
 
 - *setTime:*
+        Sets the time for the topbar.
 
-
-- *setBacklight:*
-
+- *setStatusBattery:*
+        Float between 1 and 0, 1 is 100% battery 0 is 0% battery.
+        This methode wil change the battery icon in the topbar.
 
 
 - *setBacklight:*
