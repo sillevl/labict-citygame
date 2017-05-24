@@ -25,7 +25,7 @@ After we press the option to make a new game, we will be entering the next scree
 
 After having set the number of teams from 0 to 1, a new button will appear ont the screen,
 
-
+![](/assets/gamescene 2.png)
 
 In this screen the Topbar will have unlocked all its options, each of these options do one of the following things:
 
@@ -38,6 +38,4 @@ In this screen the Topbar will have unlocked all its options, each of these opti
 ![](/assets/MenuOptions.png)
 
 
-
-![](/assets/gamescene 3.png)
 
