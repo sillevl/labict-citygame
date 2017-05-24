@@ -19,10 +19,15 @@ After we press the option to make a new game, we will be entering the next scree
 
 In this screen the Topbar will have unlocked all its options, each of these options do one of the following things:
 
-* New: Create a new GamePacket for each Team and resets any previously made changes
+* New: Create a new GamePacket for each Team and reset any previously made changes
 * Open: Open a collection of previously-created games
 * Save as: Create the JSON file with all information about the games
-* Upload: Upload the JSON file to Hardware Box.
+* Upload: Upload the JSON file to the Game Management
+* Connect: Sends the JSON file to the box \(not fully implemented yet\)
 
 ![](/assets/MenuOptions.png)
+
+
+
+![](/assets/number of teams.png)
 
