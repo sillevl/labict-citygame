@@ -1,4 +1,5 @@
 ## Keyswitch
+![](/assets/Keyswitch_Banner.jpg)
 
 |general|specific|
 |---|---|
@@ -15,7 +16,6 @@
 |Moulding Material: |Polyamide 6.6 G.F. V0 Rated|
 |Lock Housing: |Zinc Alloy Bright Cr Plated|
 
-![picture of the keyswitch](Keyswitch.PNG)
 
 **Some general features:**
  - Double pole
