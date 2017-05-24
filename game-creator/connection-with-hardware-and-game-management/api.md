@@ -6,6 +6,8 @@ An application programming interface, also known as API, combines protocols, too
 
 All of this is possible because API shares a very limited information about the sending program's internal functions to the outside world. Because of this the application can share data and they can take actions on each others behalf without developpers requiring to share all their software's code.
 
+The most important thing about APIs is that the user doesn't even need to know it's there. When the user for instance sends data via an application, he doesn't want to be confronted with all kinds of tedious tasks, he only wants to quikly send data and maybe know if it arrived.
+
 * ### Most important APIs
 
 APIs between software libraries are something we need on a daily basis, copy and pasting for instance would be impossible without this. it allows a seperation from its implementation so that programs written in one language can use libraries written in another.
@@ -26,7 +28,7 @@ API can be used for everything that needs to send data from one application to a
 
 We thought it would be way better if the user could just send the json file to the Game Management in stead of having to use a usb stick or something like that so we decided to implement API inside our project.
 
-Because java doesn't have API build in we had to rely on some prebuild packages. We chose OkHttp,
+Because java doesn't have API build in we had to rely on some prebuild packages. We chose OkHttp, OkHttp is an HTTP client for Android and Java applications with high speed and low bandwidth use.
 
 * ### 
 
