@@ -28,11 +28,15 @@ API can be used for everything that needs to send data from one application to a
 
 We thought it would be way better if the user could just send the json file to the Game Management in stead of having to use a usb stick or something like that so we decided to implement API inside our project.
 
-Because java doesn't have API build in we had to rely on some prebuild packages. We chose OkHttp, OkHttp is an HTTP client for Android and Java applications with high speed and low bandwidth use.
+Because java doesn't have API build in we had to rely on some prebuild packages. We chose OkHttp, OkHttp is an HTTP client for Android and Java applications with high speed and low bandwidth use. With this library we are able to create a class that stages our JSON file to be send to the Game Management
 
 ![](/assets/OkHttp.png)
 
-* ### 
+* ### Problems encountered
+
+In implementing OkHttp inside our project we encountered some small problems,
+
+### 
 
 
 
