@@ -54,7 +54,7 @@ When routes have been made it is possible to calculate the distance and time in 
 ![](/assets/distancetime.png)
 
 ### code
-**Note:** The code is placed in the previous for loop
+**Note:** The code is part of the previous for loop.
 
 It uses the latitude and longitude doubles which (from the code above) and uses them in a formula to calculate the distance which eventually will be stored in a double called totalD and it will do that for all the paths that are made and eventually when all that is done the total distance will be set into label in topbar.
 
