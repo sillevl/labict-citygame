@@ -46,7 +46,8 @@ GND | 16  | GND   | Ground for led
         This methode wil change the battery icon in the topbar.
 
 
-- *setBacklight:*
+- *setStatusLora:*
+        First argument sets lora icon, second sets RX, TX or idle icon next to the lora icon.
 
 
 
