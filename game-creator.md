@@ -1,4 +1,4 @@
-# ame Creator
+# Game Creator
 
 ## Introduction
 
