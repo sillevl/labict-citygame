@@ -51,7 +51,7 @@ GND | 16  | GND   | Ground for led
 - *setTopBar:*
         Bool that enables or desables the topbar, when topbar is desabled screens are coped to 4 rows                 instead of 3.
         
-Other methods are self explanatory.     
+#####Other methods are self explanatory.     
 
 
 
