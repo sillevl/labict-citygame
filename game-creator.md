@@ -9,7 +9,13 @@ Game Creator has been designed and developed as an application to create the dif
 * Save the game that we created \(the information will be in JSON format\)
 * Transmit the information of the game \(JSON file\) to the hardware.
 
-![](/assets/WelcomScene.png)The first step that we need to do to start the application is click on the button "File" which will open several options. Each option do the following things:
+![](/assets/WelcomScene.png)The first step that we need to do to start the application is click on the button "File" which will only have one option available. That option is New, it let's you create a new game and lets you enter the following screen of the application.
+
+![](/assets/startscreen2.png)
+
+
+
+Each option do the following things:
 
 * New: Create a new GamePacket for each Team
 * Open: Open a collection of previously-created games
