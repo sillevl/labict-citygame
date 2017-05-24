@@ -58,9 +58,9 @@
     * [API](game-creator/connection-with-hardware-and-game-management/api.md)
     * [Serial Connection](game-creator/connection-with-hardware-and-game-management/serial-connection.md)
   * [GmapsFX](game-creator/gmapsfx.md)
-    * [Managing Routes](game-creator/gmapsfx/managing-routes.md)
     * [Creating Games](game-creator/creating-games-and-managing-marks.md)
     * [Managing Markers and Dialog Windows](game-creator/manging-markers.md)
+    * [Managing Routes](game-creator/gmapsfx/managing-routes.md)
 
 ## Costings
 

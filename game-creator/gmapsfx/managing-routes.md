@@ -80,3 +80,18 @@ When the distance is calculated you can also calculate the time with a simple ma
 ![](/assets/route2.png)
 
 One more example of routes with multiple missions.
+
+## **Problems**
+
+Most problems came from GMapsFX itself, I had some problems with using some methods from certain classes. but most of the time i would find a solution for it. 
+
+### **Deleting routes**
+
+```
+
+renderer.clearDirections(); 
+```
+
+  
+
+1 Problem i wasn't able to fix was deleting/clearing the routes that are already made. The problem is that you have to delete the renderer that draws the route. But since you overwrite the renderer everytime you draw a new path it could only delete the last route and not all of them.
