@@ -29,7 +29,7 @@ After we press the option to make a new game, we will be entering the next scree
 
 After having set the number of teams from 0 to 1, a new button will appear on the screen. When this mission button is pressed a map will be loaded in a seperate window. The use and functions of this map will be explained later on in the chapter **Creating Games**.
 
-![](/assets/gamescene 2.png)
+### ![](/assets/gamescene 2.png)
 
 In this Gamescene screen the Topbar will have unlocked all its options, each of these options do one of the following things:
 
@@ -40,4 +40,30 @@ In this Gamescene screen the Topbar will have unlocked all its options, each of 
 * Connect: Sends the JSON file to the Hardware Box \(not fully implemented yet\)
 
 ![](/assets/MenuOptions.png)
+
+## UML
+
+### GameCreator
+
+![](https://pp.userapi.com/c637428/v637428845/4ad3a/WwIwogvZolE.jpg)
+
+### GameScene
+
+![](https://pp.userapi.com/c637428/v637428845/4ad42/ZcJzbcD8Y04.jpg)
+
+### Mission
+
+![](https://pp.userapi.com/c637428/v637428845/4ad4b/NK0kXXgfU1I.jpg)
+
+### Team
+
+![](https://pp.userapi.com/c637428/v637428845/4ad59/INfjHxeoRXY.jpg)
+
+### TopBar
+
+![](https://pp.userapi.com/c637428/v637428845/4ad52/7d_2h6yYTpc.jpg)
+
+### WelcomeScene
+
+![](https://pp.userapi.com/c637428/v637428845/4ad60/Y0-ZmME9erE.jpg)
 
