@@ -1,4 +1,4 @@
-# Game Creator
+# ame Creator
 
 ## Introduction
 
@@ -11,6 +11,8 @@ Game Creator has been designed and developed as an application to create the dif
 * Save the game that we created \(the information will be in JSON format\)
 * Transmit the information of the game \(JSON file\) to the hardware and Game Management.
 
+## How to use the application
+
 ![](/assets/WelcomScene.png)The first step that we need to do to start the application is click on the button "File" which will only have one option available. That option is New, it let's you create a new game and lets you enter the following screen of the application.
 
 ![](/assets/startscreen topbar.png)
@@ -21,6 +23,10 @@ After we press the option to make a new game, we will be entering the next scree
 
 ![](/assets/number of teams.png)
 
+After having set the number of teams from 0 to 1, a new button will appear ont the screen,
+
+
+
 In this screen the Topbar will have unlocked all its options, each of these options do one of the following things:
 
 * New: Create a new GamePacket for each Team and reset any previously made changes
@@ -30,4 +36,8 @@ In this screen the Topbar will have unlocked all its options, each of these opti
 * Connect: Sends the JSON file to the Hardware Box \(not fully implemented yet\)
 
 ![](/assets/MenuOptions.png)
+
+
+
+![](/assets/gamescene 3.png)
 
