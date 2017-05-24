@@ -1,7 +1,7 @@
 ## Keyswitch
 ![](/assets/Keyswitch_Banner.jpg)
 
-|general|specific|
+|general specifications|
 |---|---|
 |Switch Rating: |1A @ 115Vac|
 |(Switching Resistive load): |1A @ 24Vdc|
