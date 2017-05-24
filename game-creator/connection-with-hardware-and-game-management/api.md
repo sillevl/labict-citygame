@@ -22,13 +22,13 @@ Because you are dependent on someone else, API isn't perfect. If the company you
 
 * ### How did we use API in the VIVES City Game project
 
-We thought it would be way better if the user could just send the json file to the Game Management in stead of having to use a usb stick or something like that so we decided to implement API inside our project. For our 
+We thought it would be way better if the user could just send the json file to the Game Management in stead of having to use a usb stick or something like that so we decided to implement API inside our project. For creating our google maps, we also relied on an API, this will be further explained in chapter **GmapsFX**.
 
 Because java doesn't have API build in we had to rely on some prebuild packages. We chose OkHttp, OkHttp is an HTTP client for Android and Java applications with high speed and low bandwidth use. OkHttp also makes use of OkIO, this adds fast I/O and resizable buffers. With these 2 libraries we are able to create a simple class that stages our JSON file to be send to the Game Management.
 
 ![](/assets/OkHttp.png)
 
-With this class in place, the only thing left is create a button that allows the Json file to be send. This
+With this class in place, the only thing left is to create a button that allows the Json file to be send. This
 
 ![](/assets/upload.png)
 
