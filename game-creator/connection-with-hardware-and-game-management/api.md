@@ -28,7 +28,7 @@ Because java doesn't have API build in we had to rely on some prebuild packages.
 
 ![](/assets/OkHttp.png)
 
-With this class in place, the only thing left is to create a button that allows the Json file to be send. This
+With this class in place, the only thing left is to create a button that allows the Json file to be send. This button is very basic and just adds the JSON file and a URL where the JSON file will be send to.
 
 ![](/assets/upload.png)
 
