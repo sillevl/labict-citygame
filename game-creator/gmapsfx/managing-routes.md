@@ -1,4 +1,3 @@
-![](/assets/distance&time.PNG)
 
 #**Routes**
 ![](/assets/route1.png)
@@ -50,8 +49,32 @@ The for loop is used to go through all missions. At the end of the for loop a 1 
 
 ## **What else does routes has to offer.**
 
-When routes are have been made it is possible to calculate the distance and time in bird eye's view
+When routes are have been made it is possible to calculate the distance and time in bird eye's view. This is the fastest possible way to go from 1 location to a second one.
 
+![](/assets/distancetime.png)
 
+### code
+**Note:** The code is placed in the previous for loop
 
+It uses the latitude and longitude doubles which (from the code above) and uses them in a formula to calculate the distance which eventually will be stored in a double called totalD and it will do that for all the paths that are made and eventually when all that is done the total distance will be set into label in topbar.
 
+                double dLat = (toLat - fromLat) * Math.PI / 180;
+                double dLon = (toLong - fromLong) * Math.PI / 180;
+
+                double a = Math.sin(dLat / 2) * Math.sin(dLat / 2)
+                        + Math.cos(fromLat * Math.PI / 180)
+                        * Math.cos(toLat * Math.PI / 180)
+                        * Math.sin(dLon / 2) * Math.sin(dLon / 2);
+                
+
+                double c = 2.0 * Math.atan2(Math.sqrt(a), Math.sqrt(1 - a));
+                double d = EarthRadiusMeters * c;
+                totalD += d;
+  
+                System.err.println("Distance is: " + totalD +"Meters");   
+
+When the distance is calculated you can also calculate the time with a simple math formula and when thats done it will also be printed out into a label in the topbar.
+
+![](/assets/route2.png)
+
+One more example of routes with multiple missions.
