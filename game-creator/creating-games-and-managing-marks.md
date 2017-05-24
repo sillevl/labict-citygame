@@ -28,5 +28,16 @@ Now we will see how it has been the final map  with some screenshots.
 
 ![](/assets/keymission.png)
 
-![](/assets/mapFinal.png)
+### ![](/assets/mapFinal.png)
+
+### Missions Java classes
+
+Then we will see a representation of the UML language on the classes that make up the missions.![](/assets/MissionClasses.png)
+
+We can see that we use the same class for both missions, since they share the same variables. On the other hand we have a component "MissionID" to know that mission is.
+
+* If MissionID = 10 it belongs to LocationGame.
+* If MissionID = 20, it belongs to Key Switch Game.
+
+Each Mission class has an ArrayList of MissionLocations . Each MissionLocations class has variables about the position and radius \(latitude, longitude and radius\). The MissionLocations class is dependent on the class Mission. For each Mission should be at least one MissionLocations.
 
