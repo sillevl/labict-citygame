@@ -8,7 +8,7 @@ First we create a button to manually enter the longitude and latitude.  When we 
 
 ![](/assets/LocationAndLongitude.png)
 
-### The definitively way to add a marker.
+### The definitive way to add a marker.
 
 It worked, and we wanted to go further. We thought that it would be easier for the user to click on the screen to select the point that the user knew exactly the coordinate \(latitude and longitude\) of the point that he wanted to add. So, we decided when the user click with the right button at one point specific to the map, a marker will appear at the point of the map that was clicked.![](/assets/mapMarker1.png)
 
