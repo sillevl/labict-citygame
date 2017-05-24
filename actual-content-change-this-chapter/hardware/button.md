@@ -4,7 +4,7 @@
 
 |general specifications|
 |---|---|
-|Button Rating: |6A 250V AC|
+|Button Type: | push button |
 |Button Rating: |6A 250V AC|
 |Contact resistance: |50mΩ Max|
 |Insulatin resistance: |DC 500V 100MΩ Min|
