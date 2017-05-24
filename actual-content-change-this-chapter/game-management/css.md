@@ -92,5 +92,9 @@ A bug on the controlpanel is present as seen at the bottom of the screenshot. Th
 
 #### Maintenance & Game selector/"editor"
 
+##### Disclaimer:
+
+##### Both maintenance and game selector/"editor" are/were not designed for mobile users as it is/was not the intention for an administrator to manage everything from his/her handheld. Managing from a tablet with correct layout is most of the time possible, but not guaranteed.
+
 ![](/assets/m.maintenance.jpg)![](/assets/m.game-booking-editor.jpg)
 
