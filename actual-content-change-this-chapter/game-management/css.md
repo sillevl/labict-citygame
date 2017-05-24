@@ -26,7 +26,7 @@
 
 #### Controlpanel
 
-The leaflet map was the hardest object to give it's correct dimensions. Many attempt with CSS were done, but all of them failed. We ended up using the following lines of code in JavaScript. \(Credits to Jasper V. for this\)
+The leaflet map was the hardest object to give it's correct dimensions. Many attempts with CSS were done, but all of them failed. We ended up using the following lines of code in JavaScript. \(Credits to Jasper V. for this\)
 
 ```js
 $("#map").height($(window).height()/1.427).width($(window).width()/1.56);
