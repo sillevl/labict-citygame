@@ -13,9 +13,13 @@ Game Creator has been designed and developed as an application to create the dif
 
 ## How to use the application
 
+### Welcome Scene
+
 ![](/assets/WelcomScene.png)The first step that we need to do to start the application is click on the button "File" which will only have one option available. That option is New, it let's you create a new game and lets you enter the following screen of the application.
 
 ![](/assets/startscreen topbar.png)
+
+### Gamescene
 
 After we press the option to make a new game, we will be entering the next screen of the application. In this Gamescene screen the user will spent most of its time setting up the game, choosing their team name and adding a description of the game.
 
