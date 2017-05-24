@@ -45,17 +45,13 @@ GND | 16  | GND   | Ground for led
         Float between 1 and 0, 1 is 100% battery 0 is 0% battery.
         This methode wil change the battery icon in the topbar.
 
-
 - *setStatusLora:*
         First argument sets lora icon, second sets RX, TX or idle icon next to the lora icon.
 
-
-
-- *setBacklight:*
+- *setTopBar:*
+        Bool that enables or desables the topbar, when topbar is desabled screens are coped to 4 rows                 instead of 3.
         
-
-
-
+Other methods are self explanatory.     
 
 
 
