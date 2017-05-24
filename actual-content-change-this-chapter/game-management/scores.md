@@ -5,6 +5,7 @@ So we started with just a static system.
 The data that you see in the picture is data from the database, but it's hardcoded in the database.
 ### **UML**
 ![](/assets/scores uml.PNG)
+As you can see in th UML we need the function find() from the DB class in our getAllscores() function in the scores page, to get all the scores out of the DB.
 ### **How can it be used in the future?**
 You can make the scores system by giving points to each completed objective.
 You only need to make some functions in the score class to insert points after each objective is completed.
