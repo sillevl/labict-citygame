@@ -49,7 +49,7 @@ The for loop is used to go through all missions. At the end of the for loop a 1 
 
 ## **What else does routes has to offer.**
 
-When routes are have been made it is possible to calculate the distance and time in bird eye's view. This is the fastest possible way to go from 1 location to a second one.
+When routes have been made it is possible to calculate the distance and time in bird eye's view. This is the fastest possible way to go from 1 location to a second one.
 
 ![](/assets/distancetime.png)
 
