@@ -34,7 +34,7 @@ GND | 16  | GND   | Ground for led
 
 #### Display driver:
 
-[Source code](https://developer.mbed.org/users/simon/code/TextLCD/)
+[Source code](https://developer.mbed.org/users/atomicLogic/code/TextLCD/)
     
 
 
