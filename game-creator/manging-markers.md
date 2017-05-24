@@ -36,11 +36,11 @@ The draggable radio was more difficult. Methods that came in the program that we
 
 _Everything about this part of the project, is located in a library called "gamecreator.map"_
 
+### Java Classes about Markers and Dialog Window
+
+We can see then in UML format, classes that are directly related to markers and dialog Windows-![](/assets/UMLMARKERS.png)
 
 
-
-
-### 
 
 
 
