@@ -53,3 +53,4 @@ The for loop is used to go through all missions. At the end of the for loop a 1 
 When routes are have been made it is possible to calculate the distance and time in bird eye's view
 
 
+
