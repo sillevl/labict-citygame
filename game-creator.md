@@ -1,6 +1,6 @@
 # Game Creator
 
-Game Creator has been designed and developed as an application to create the differents games that belong to "VIVES CITY GAME". The main functions of this application are:
+Game Creator has been designed and developed as an application to create the different games that belong to "VIVES CITY GAME". The main functions of this application are:
 
 * Create a new game at a specific point on the map.
 * Save and manage all the information related to the missions of orderly and clear.
@@ -17,8 +17,4 @@ Game Creator has been designed and developed as an application to create the dif
 * Upload: Upload the JSON file to Hardware Box.
 
 ![](/assets/MenuOptions.png)
-
-
-
-
 

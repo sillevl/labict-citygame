@@ -20,7 +20,7 @@ Because you are dependent on someone else, API isn't perfect. If the company you
 
 * ### How can API be used
 
-API can be used for everything that needs to send data from one application to another.
+API can be used for everything that needs to send data from one a pplication to another.
 
 * ### How did we use API in the VIVES City Game project
 
