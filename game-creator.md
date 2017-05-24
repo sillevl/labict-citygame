@@ -13,9 +13,15 @@ Game Creator has been designed and developed as an application to create the dif
 
 ![](/assets/startscreen topbar.png)
 
+After we press the option to make a new game, we will be entering the next screen of the application in this screen
+
+![](/assets/gamescene.png)
+
+
+
 Each option do the following things:
 
-* New: Create a new GamePacket for each Team
+* New: Create a new GamePacket for each Team and resets any previously made changes
 * Open: Open a collection of previously-created games
 * Save as: Create the JSON file with all information about the games
 * Upload: Upload the JSON file to Hardware Box.
