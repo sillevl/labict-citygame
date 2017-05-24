@@ -1,6 +1,6 @@
 ## Button
 
-|general|specific|
+|general specifications|
 |---|---|
 |Button Rating: |6A 125V AC|
 |Contact resistance: |50mΩ Max|
