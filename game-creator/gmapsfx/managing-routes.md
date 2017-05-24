@@ -56,7 +56,8 @@ When routes have been made it is possible to calculate the distance and time in 
 ### code
 **Note:** The code is part of the previous for loop.
 
-It uses the latitude and longitude doubles which (from the code above) and uses them in a formula to calculate the distance which eventually will be stored in a double called totalD and it will do that for all the paths that are made and eventually when all that is done the total distance will be set into label in topbar.
+** Distance**
+To calculate the distance It uses the latitude and longitude doubles which (from the code above) and uses them in a formula to calculate the distance which eventually will be stored in a double called totalD and it will do that for all the paths that are made and eventually when all that is done the total distance will be set into label in topbar.
 
                 double dLat = (toLat - fromLat) * Math.PI / 180;
                 double dLon = (toLong - fromLong) * Math.PI / 180;
@@ -73,6 +74,7 @@ It uses the latitude and longitude doubles which (from the code above) and uses 
   
                 System.err.println("Distance is: " + totalD +"Meters");   
 
+**Time**
 When the distance is calculated you can also calculate the time with a simple math formula and when thats done it will also be printed out into a label in the topbar.
 
 ![](/assets/route2.png)
