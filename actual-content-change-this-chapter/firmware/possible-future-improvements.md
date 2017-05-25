@@ -6,16 +6,16 @@ There are several things that could be added to the firmware in the future. Here
 
 * **More missions.** This is fairly simple to do, once again by using inheritance. By inheriting from the Mission class you can add for example a code mission where the user must enter a number or passcode to complete it.
 
-***
+****
 
-*** Standalone Serial
-
+### Standalone Serial
+ 
 At this moment there is a stand alone Serial Writing program and a Receiving C++ program.
 
 To add the Json file we want to use the available serial Port. To do so we need a program on the pc who calls the serial port, imports the Json file and then passes it to the serial port of the mbed.
 
 At the mbed side we need a class who can read the serial port and who can write the incoming information on the SD card.
-**** Java:
+#### Java:
 
 At the PC side we built a java program based on the RXTX class. This program contains 4 major parts:
 
@@ -37,9 +37,7 @@ The first button simply listens if there are any COM ports with an up status. If
 
 With the second button we select the correct port and try to make a connection with it. To do so, we fist check if the port is free. If so, we init a baudrate and set up a stream in and stream out buffer.
 
-We use the thirth button when we do not longer need the connection. We end the in- and output stream. Then we release the connection so other users can connect with it.
-
-If the connection is successfull we can start writing bytes to the mbed. To do so we can either use the fourth or fifth button.
+We use the thirth button when we do not longer need the connection. We end the in- and output stream. Then we release the connection so other users can connect with it. If the connection is successfull we can start writing bytes to the mbed. To do so we can either use the fourth or fifth button.
 
 The fourth simply converts the string in the textfield into an base64 array and writes it byte for byte to the mbed.
 
@@ -49,7 +47,7 @@ When we use the fifth button we first locate the Json file and load it into a st
 
 Then this buffer is converted to a base64 byte array. This buffer is then sent byte for byte to the mbed.
 
-**** C++
+#### C++
 
 At the mbed side we have a class that contains 2 parts:
 
